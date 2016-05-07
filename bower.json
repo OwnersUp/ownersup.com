@@ -1,0 +1,24 @@
+{
+  "name": "ownersup.com",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Matt McManus <matt@mcmanus.io>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/OwnersUp/ownersup.com",
+  "moduleType": [
+    "globals"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.6"
+  }
+}
