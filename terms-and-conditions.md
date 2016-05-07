@@ -1,6 +1,7 @@
 ---
 title: Terms and Conditions
 permalink: /terms-and-conditions
+layout: page
 ---
 Last updated: September 16, 2015
 
