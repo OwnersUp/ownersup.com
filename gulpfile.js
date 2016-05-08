@@ -51,7 +51,7 @@ gulp.task('sass', function () {
       'bower_components/bootstrap-sass/assets/stylesheets'
     ],
     onError: browserSync.notify,
-  }))
+  }).on('error', sass.logError))
   .pipe(prefix(['last 15 versions', '> 1%', 'ie 8', 'ie 7'], { cascade: true }))
   .pipe(gulp.dest('_site/css'))
   .pipe(browserSync.reload({stream:true}))
