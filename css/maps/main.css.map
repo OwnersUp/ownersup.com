@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss"],"names":[],"mappings":"AAAA,KACE,kBAAoB,CACrB,GAGC,YAAc,CACf","file":"main.css","sourcesContent":["body {\n  background: magenta;\n}\n\nh1 {\n  color: yellow;\n}\n"],"sourceRoot":"/source/"}
