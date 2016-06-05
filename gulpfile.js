@@ -42,19 +42,19 @@ gulp.task('browser-sync', ['sass', 'jekyll-build'], function () {
 * (for future jekyll builds)
 */
 gulp.task('sass', function () {
-  return gulp.src('_scss/main.scss')
+  return gulp.src('_scss/*.scss')
   .pipe(sourcemaps.init())
   .pipe(sass({
     outputStyle: 'compressed',
     includePaths: [
       'scss',
-      'bower_components/bootstrap-sass/assets/stylesheets'
+      'bower_components/bootstrap-sass/assets/stylesheets',
     ],
     onError: browserSync.notify,
   }).on('error', sass.logError))
   .pipe(prefix(['last 15 versions', '> 1%', 'ie 8', 'ie 7'], { cascade: true }))
   .pipe(gulp.dest('_site/css'))
-  .pipe(browserSync.reload({stream:true}))
+  .pipe(browserSync.reload({ stream: true }))
   .pipe(sourcemaps.write('./maps'))
   .pipe(gulp.dest('css'));
 });
