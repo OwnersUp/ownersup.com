@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<div class="container">
+  <div class="page-header">
+    <h1>{{page.title}}</h1>
+  </div>
+
+  <div class="row">
+    <article class="col-md-7">
+      {{content}}
+    </article>
+    <aside class="col-md-5.hidden-sm">
+      <div id="toc" data-spy='affix' data-offset-top='165'>
+        table_of_contents(current_page)
+      </div>
+    </aside>
+  </div>
+</div>

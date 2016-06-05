@@ -1,7 +1,7 @@
 ---
 title: Privacy Policy
 permalink: /privacy-policy
-layout: page
+layout: document
 ---
 <!--
  This is the Terms of Service that appears at http://OwnersUp.com/privacy/

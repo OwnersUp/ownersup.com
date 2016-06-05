@@ -17,6 +17,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ownersup.com" # the base hostname & protocol for your site
 twitter_username: ownersup
 
+incremental: true
 # Build settings
 markdown: kramdown
 
