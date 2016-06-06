@@ -23,3 +23,8 @@ markdown: kramdown
 
 sass:
   style: compressed
+
+collections:
+  faq:
+    output: true
+    permalink: /faq/:path/

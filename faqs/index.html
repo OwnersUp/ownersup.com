@@ -1,0 +1,15 @@
+---
+layout: default
+title: FAQs
+---
+{% assign categories = site.faq | group_by:"category" %}
+{{ site.categories }}
+{% for category in site.categories %}
+  <div class="col-md-4">
+    <a class="thumbnail" href={{faq.url}}>
+      <div class="caption text-center">
+        <h3>{{category.name}}</h3>
+      </div>
+    </a>
+  </div>
+{% endfor %}
