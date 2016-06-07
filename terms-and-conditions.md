@@ -1,8 +1,9 @@
 ---
 title: Terms and Conditions
-permalink: /terms-and-conditions
+permalink: "/terms-and-conditions"
 layout: document
 ---
+
 Last updated: September 16, 2015
 
 Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using the https://ownersup.com website (the "Service") operated by OwnersUp LLC ("us", "we", or "our").

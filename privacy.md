@@ -1,8 +1,9 @@
 ---
 title: Privacy Policy
-permalink: /privacy-policy
+permalink: "/privacy-policy"
 layout: document
 ---
+
 <!--
  This is the Terms of Service that appears at http://OwnersUp.com/privacy/
  You can also find me at http://github.com/OwnersUp/ownersup-legal

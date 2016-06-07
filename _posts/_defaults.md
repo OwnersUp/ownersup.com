@@ -1,6 +1,5 @@
 ---
 layout: post
-title:
-date:
-categories:
+categories: 
 ---
+
