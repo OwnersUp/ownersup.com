@@ -1,6 +1,6 @@
 ---
 title: Terms and Conditions
-permalink: "/terms-and-conditions"
+permalink: /terms-and-conditions/
 layout: document
 ---
 
@@ -13,6 +13,12 @@ Your access to and use of the Service is conditioned upon your acceptance of and
 **By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the terms then you do not have permission to access the Service.**
 
 ### Communications
+
+
+
+
+hkjhkjh
+
 
 By creating an Account on our service, you agree to subscribe to newsletters, marketing or promotional materials and other information we may send. However, you may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
 
