@@ -1,7 +1,6 @@
 ---
 title: Download
-permalink: /download/
+permalink: "/download/"
 layout: document
 ---
-
 
