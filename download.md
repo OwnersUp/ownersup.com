@@ -1,6 +1,6 @@
 ---
 title: Download
-permalink: "/download/"
+permalink: /download/
 ---
 
-# Download
+
