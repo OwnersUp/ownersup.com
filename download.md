@@ -1,6 +1,7 @@
 ---
 title: Download
-permalink: "/download/"
-layout: page
+permalink: /download/
+layout: document
 ---
+
 
