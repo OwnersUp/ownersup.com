@@ -1,6 +1,6 @@
 ---
 title: Download our Game Changing Tools PDF
-permalink: /download/
+permalink: "/download/"
 layout: document
 ---
 
