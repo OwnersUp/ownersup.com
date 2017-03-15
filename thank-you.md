@@ -1,7 +1,7 @@
 ---
-title: Thank you! Your Application is complete.
-permalink: "/thank-you/"
-layout: original_design
+title: 'Thank you! Your Application is complete.'
+permalink: /thank-you/
+layout: document
 ---
 
 Way to go! We’ve received your application and will begin reviewing it as soon as we can. You should hear from us in a couple days.
