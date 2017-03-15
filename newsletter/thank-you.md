@@ -1,6 +1,6 @@
 ---
 title: Thanks! Now download our Game Changing Tools PDF
-permalink: "/newsletter/thank-you"
+permalink: "/newsletter/thank-you/"
 layout: document
 ---
 
