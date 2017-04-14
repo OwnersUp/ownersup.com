@@ -8,7 +8,7 @@ $(function() {
   });
 
   $( "input" ).focus(function() {
-    ga('send', 'event', 'Application', 'Interaction', 'Free Trial', $(this).data('name');
+    ga('send', 'event', 'Application', 'Interaction', 'Free Trial', $(this).data('name'));
     fbq('track', 'InitiateCheckout', {content_name: 'Free Trial', content_category: 'Application'});
   });
 })
