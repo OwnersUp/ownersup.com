@@ -12,8 +12,10 @@ url: http://ownersup.com
 twitter_username: ownersup
 incremental: true
 markdown: kramdown
+
 sass:
-  style: compressed
+    # style: compressed
+    sass_dir: _scss
 
 gems:
   - jekyll-sitemap
