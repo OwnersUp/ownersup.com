@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="79px" height="79px" viewBox="0 0 79 79" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>how-it-works-daily</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Main-V3" transform="translate(-360.000000, -5517.000000)" stroke-width="3" stroke="#4ABFB6">
+            <g id="How-it-Works" transform="translate(244.000000, 4705.000000)">
+                <g id="Group-9" transform="translate(49.000000, 812.000000)">
+                    <g id="Group">
+                        <g id="how-it-works-daily" transform="translate(67.000000, 0.000000)">
+                            <rect id="Combined-Shape-Copy" transform="translate(39.507463, 39.500000) rotate(90.000000) translate(-39.507463, -39.500000) " x="2.11940299" y="1.9015544" width="74.7761194" height="75.1968912" rx="7.6"></rect>
+                            <polyline id="Line-Copy-11" stroke-linecap="square" points="31.8507463 19.7512953 26.1776269 25.3678033 23.7910448 23.0050367"></polyline>
+                            <polyline id="Line-Copy-12" stroke-linecap="square" points="31.8507463 36.9067358 26.1776269 42.5232437 23.7910448 40.1604771"></polyline>
+                            <polyline id="Line-Copy-13" stroke-linecap="square" points="31.8507463 55.2590674 26.1776269 60.8755753 23.7910448 58.5128087"></polyline>
+                            <path d="M38.1737873,23.5 L65.6343826,23.5" id="Line-Copy-14" stroke-linecap="square"></path>
+                            <path d="M13.9029851,3.77080224 L13.9029851,75.5" id="Line-Copy-17" stroke-linecap="square"></path>
+                            <path d="M38.0693097,41.5 L65.529905,41.5" id="Line-Copy-15" stroke-linecap="square"></path>
+                            <path d="M38.0693097,59.5 L65.529905,59.5" id="Line-Copy-16" stroke-linecap="square"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
