@@ -6,4 +6,5 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap', '0.10.0'
   gem 'jekyll-autoprefixer'
   gem 'jekyll-redirect-from'
+  gem 'hawkins'
 end
