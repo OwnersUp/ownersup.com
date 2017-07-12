@@ -1,9 +1,8 @@
 ---
-title: 'Thank you! Your Application is complete.'
-permalink: /thank-you/
+title: Thank you! Your Application is complete.
+permalink: "/thank-you/"
 layout: document
 ---
-
 
 ##### Congratulations for taking the next step in growing your business!
 
