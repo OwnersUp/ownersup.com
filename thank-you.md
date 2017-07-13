@@ -1,12 +1,11 @@
 ---
-title: Congratulations for taking the next step in growing your business!
-permalink: "/thank-you/"
+title: 'Congratulations for taking the next step in growing your business!'
+permalink: /thank-you/
 layout: document
 ---
 
-##### &nbsp;
 
-Community is everything at OwnersUP.&nbsp;
+##### Community is everything at OwnersUP.&nbsp;
 
 We strongly believe that “success is contagious” and “You are the average of the five people you spend the most time with.”
 
