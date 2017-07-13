@@ -1,9 +1,8 @@
 ---
-title: 'Congratulations for taking the next step in growing your business!'
-permalink: /thank-you/
+title: Congratulations for taking the next step in growing your business!
+permalink: "/thank-you/"
 layout: document
 ---
-
 
 ##### &nbsp;
 
