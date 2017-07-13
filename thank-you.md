@@ -1,14 +1,15 @@
 ---
-title: Thank you! Your Application is complete.
-permalink: "/thank-you/"
+title: 'Congratulations for taking the next step in growing your business!'
+permalink: /thank-you/
 layout: document
 ---
 
-##### Congratulations for taking the next step in growing your business!
 
-Community is everything at OwnersUP. Congratulations for taking the next step in growing your business!
+##### &nbsp;
 
-We strongly believe that "success is contagious" and “You are the average of the five people you spend the most time with.”
+Community is everything at OwnersUP.&nbsp;
+
+We strongly believe that “success is contagious” and “You are the average of the five people you spend the most time with.”
 
 So we take membership seriously. We would love to hop on on a 30-minute phone call with you to learn more about your business and to see if you are a fit.
 
