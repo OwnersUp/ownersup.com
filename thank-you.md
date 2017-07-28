@@ -1,9 +1,8 @@
 ---
-title: "Thanks! Now let's set up a time to talk."
-permalink: /thank-you/
+title: Thanks! Now let's set up a time to talk.
+permalink: "/thank-you/"
 layout: document
 ---
-
 
 ##### Thank you for applying!
 
