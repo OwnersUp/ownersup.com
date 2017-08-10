@@ -1,7 +1,5 @@
 jQuery(document).ready(function ($) {
-
-    $(document).foundation();
-
+    
     AOS.init({
         duration: 300,
         easing: 'ease-out-quad',
@@ -23,5 +21,7 @@ jQuery(document).ready(function ($) {
         });
 
     });
+
+    $(document).foundation();
 
 });
