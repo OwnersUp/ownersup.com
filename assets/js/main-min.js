@@ -1,0 +1,1 @@
+jQuery(document).ready(function($){$(document).foundation(),AOS.init({duration:300,easing:"ease-out-quad",delay:100,once:!0}),$(".swiper-container").each(function(){var n="#"+$(this).attr("id"),e=new Swiper(n,{speed:1e3,parallax:!0,pagination:".swiper-pagination",paginationClickable:!0,nextButton:".swiper-button-next",prevButton:".swiper-button-prev"})})});

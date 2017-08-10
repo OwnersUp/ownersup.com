@@ -14,7 +14,7 @@ incremental: true
 markdown: kramdown
 
 sass:
-    # style: compressed
+    #style: compressed
     sass_dir: _scss
 
 gems:
