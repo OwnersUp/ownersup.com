@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="167px" height="62px" viewBox="0 0 167 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 16</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="29.1512195" cy="29.1621622" rx="29.1512195" ry="29.1621622"></ellipse>
+        <ellipse id="path-3" cx="29.1512195" cy="29.1621622" rx="29.1512195" ry="29.1621622"></ellipse>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Pricing-V1" transform="translate(-636.000000, -1453.000000)">
+            <g id="Body" transform="translate(0.000000, 767.000000)">
+                <g id="Group-21" transform="translate(606.000000, 688.000000)">
+                    <g id="Group-16" transform="translate(32.000000, 0.000000)">
+                        <g id="Group-9-Copy">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Oval-11-Copy" stroke="#4ABFB6" stroke-width="3" fill="#FFFFFF" xlink:href="#path-1"></use>
+                            <ellipse id="Oval-11-Copy-8" stroke="#4ABFB6" stroke-width="3" mask="url(#mask-2)" cx="29.502439" cy="19.6756757" rx="9.13170732" ry="9.13513514"></ellipse>
+                            <ellipse id="Oval-11-Copy-9" stroke="#4ABFB6" stroke-width="3" mask="url(#mask-2)" cx="29.502439" cy="49.1891892" rx="14.7512195" ry="14.7567568"></ellipse>
+                        </g>
+                        <g id="Group-9-Copy-2" transform="translate(105.000000, 0.000000)">
+                            <mask id="mask-4" fill="white">
+                                <use xlink:href="#path-3"></use>
+                            </mask>
+                            <use id="Oval-11-Copy" stroke="#4ABFB6" stroke-width="3" fill="#FFFFFF" xlink:href="#path-3"></use>
+                            <ellipse id="Oval-11-Copy-8" stroke="#4ABFB6" stroke-width="3" mask="url(#mask-4)" cx="29.502439" cy="19.6756757" rx="9.13170732" ry="9.13513514"></ellipse>
+                            <ellipse id="Oval-11-Copy-9" stroke="#4ABFB6" stroke-width="3" mask="url(#mask-4)" cx="29.502439" cy="49.1891892" rx="14.7512195" ry="14.7567568"></ellipse>
+                        </g>
+                        <g id="Group-13" transform="translate(64.500000, 13.000000)" stroke-linecap="round" stroke="#4ABFB6" stroke-width="3">
+                            <g id="Group-11" transform="translate(4.000000, 0.000000)">
+                                <path d="M24.0269862,6.69411875 C21.0528122,3.78977182 16.9854179,2 12.5,2 C7.75862793,2 3.48434854,3.99986148 0.474667336,7.20207892" id="Oval-2"></path>
+                                <polyline id="Triangle-2" transform="translate(23.901332, 6.841551) rotate(-45.000000) translate(-23.901332, -6.841551) " points="30.2947344 3.57426662 23.7667366 10.1088362 17.50793 3.57426662"></polyline>
+                            </g>
+                            <g id="Group-11-Copy" transform="translate(15.500000, 25.000000) scale(-1, -1) translate(-15.500000, -25.000000) translate(0.000000, 18.000000)">
+                                <path d="M24.0269862,6.69411875 C21.0528122,3.78977182 16.9854179,2 12.5,2 C7.75862793,2 3.48434854,3.99986148 0.474667336,7.20207892" id="Oval-2"></path>
+                                <polyline id="Triangle-2" transform="translate(23.901332, 6.841551) rotate(-45.000000) translate(-23.901332, -6.841551) " points="30.2947344 3.57426662 23.7667366 10.1088362 17.50793 3.57426662"></polyline>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

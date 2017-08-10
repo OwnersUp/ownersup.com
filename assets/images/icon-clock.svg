@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="114px" height="91px" viewBox="0 0 114 91" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(2.000000, 0.000000)" stroke="#4ABFB6" stroke-width="3">
+            <path d="M30.5737454,89.5 C29.7331805,89.5 29.1563854,89.5 27.7223137,89.5 L27.7223137,92.5 L30.8593777,92.5 L30.8593777,89.5 L30.5737454,89.5 Z" id="Rectangle-16-Copy-2"></path>
+            <ellipse id="Oval-11-Copy" cx="54.6526712" cy="41.7103388" rx="16.1692466" ry="16.1400909"></ellipse>
+            <polyline id="Line-Copy-11" points="61.0273973 38.3553719 52.0118578 47.2648521 48.2191781 43.5167896"></polyline>
+            <path d="M83.630137,17.2975207 L105.48063,17.2975207 C107.975796,17.2975207 109.998528,19.3143113 109.998528,21.8072351 L109.998528,74.4572277 C109.998528,76.9478742 107.976406,78.9669421 105.476516,78.9669421 L83.9524026,78.9669421" id="Rectangle-16-Copy-4"></path>
+            <path d="M-1.0658141e-14,17.2975207 L21.8504927,17.2975207 C24.3456593,17.2975207 26.3683915,19.3143113 26.3683915,21.8072351 L26.3683915,74.4572277 C26.3683915,76.9478742 24.3462689,78.9669421 21.8463789,78.9669421 L0.322265625,78.9669421" id="Rectangle-16-Copy-5" transform="translate(13.184196, 48.132231) scale(-1, 1) translate(-13.184196, -48.132231) "></path>
+        </g>
+    </g>
+</svg>
