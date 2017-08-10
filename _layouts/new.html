@@ -1,19 +1,21 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-
-    <link href="https://fonts.googleapis.com/css?family=Lato:400,900" rel="stylesheet">
-    <link rel="stylesheet" href="{{ "/css/new.css" | prepend: site.baseurl }}">
-  </head>
-
-
-  <body>
-    {{ content }}
-  </body>
-
+    <link rel="stylesheet" href="{{ "css/main.css" | prepend: site.baseurl }}" />
+    <link rel="stylesheet" href="{{ "bower_components/swiper/dist/css/swiper.min.css" | prepend: site.baseurl }}"/>
+    <link rel="stylesheet" href="{{ "bower_components/aos/dist/aos.css" | prepend: site.baseurl }}"/>
+    <script type="text/javascript" src="{{ "bower_components/jquery/dist/jquery.min.js" | prepend: site.baseurl }}"></script>
+    <script type="text/javascript" src="{{ "bower_components/swiper/dist/js/swiper.jquery.min.js" | prepend: site.baseurl }}"></script>
+    <script type="text/javascript" src="{{ "assets/js/foundation.min.js" | prepend: site.baseurl }}"></script>
+    <script type="text/javascript" src="{{ "bower_components/what-input/dist/what-input.min.js" | prepend: site.baseurl }}"></script>
+    <script type="text/javascript" src="{{ "bower_components/aos/dist/aos.js" | prepend: site.baseurl }}"></script>
+    <script type="text/javascript" src="{{ "assets/js/main.js" | prepend: site.baseurl }}"></script>
+</head>
+<body>
+  {{ content }}
+</body>
 </html>
