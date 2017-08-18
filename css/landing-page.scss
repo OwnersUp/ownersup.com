@@ -1,17 +1,19 @@
+---
+---
 @charset "utf-8";
 
 /* ==========================================================================
  * Imports / Includes
  * ========================================================================== */
 
-@import "variables";             // Bootstrap variable overrides
-@import "bootstrap-includes";    // Bootstrap core
+@import "landing-page/variables";             // Bootstrap variable overrides
+@import "landing-page/bootstrap-includes";    // Bootstrap core
 
-@import "typography";
-@import "navbar";
-@import "jumbotron";
-@import "screenshots";
-@import "footer";
+@import "landing-page/typography";
+@import "landing-page/navbar";
+@import "landing-page/jumbotron";
+@import "landing-page/screenshots";
+@import "landing-page/footer";
 
 body { position: relative; }
 article {
@@ -80,3 +82,5 @@ article {
     }
   }
 }
+
+@import "landing-page/free-trial";
