@@ -5,6 +5,13 @@
 @include foundation-flex-classes;
 @include foundation-flex-grid;
 @include foundation-everything(true);
+
+@include breakpoint(medium down){
+    html{
+        font-size:90%;
+    }
+}
+
 #site {
     position: relative;
 }
@@ -205,6 +212,9 @@ h3 {
         .description {
             color: $offwhite;
             margin-bottom: 58px;
+        }
+        .button{
+            margin-bottom:0;
         }
     }
     &.as-seen {

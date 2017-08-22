@@ -9,31 +9,39 @@
     {% if page.title %}{{ page.title | escape }} - {% endif %} {{ site.title | escape }}
   </title>
 
-  <link rel="stylesheet" href="{{ "css/main.css" | prepend: site.baseurl }}" />
-  <link rel="stylesheet" href="{{ "bower_components/swiper/dist/css/swiper.min.css" | prepend: site.baseurl }}"/>
-  <link rel="stylesheet" href="{{ "bower_components/aos/dist/aos.css" | prepend: site.baseurl }}"/>
-
-  <script type="text/javascript" src="{{ "bower_components/jquery/dist/jquery.min.js" | prepend: site.baseurl }}"></script>
-  <script type="text/javascript" src="{{ "bower_components/swiper/dist/js/swiper.jquery.min.js" | prepend: site.baseurl }}"></script>
-  <script type="text/javascript" src="{{ "assets/js/foundation.min.js" | prepend: site.baseurl }}"></script>
-  <script type="text/javascript" src="{{ "bower_components/what-input/dist/what-input.min.js" | prepend: site.baseurl }}"></script>
-  <script type="text/javascript" src="{{ "bower_components/aos/dist/aos.js" | prepend: site.baseurl }}"></script>
-  <script type="text/javascript" src="{{ "assets/js/main.js" | prepend: site.baseurl }}"></script>
+  <link rel="stylesheet" href="{{ "/css/main.css" }}" />
+  <link rel="stylesheet" href="{{ "/bower_components/swiper/dist/css/swiper.min.css" }}"/>
+  <link rel="stylesheet" href="{{ "/bower_components/aos/dist/aos.css" }}"/>
+  <script type="text/javascript" src="{{ "/bower_components/swiper/dist/js/swiper.min.js" }}"></script>
+  <script type="text/javascript" src="{{ "/bower_components/aos/dist/aos.js" }}"></script>
+  <script type="text/javascript" src="{{ "/bower_components/waypoints/lib/noframework.waypoints.min.js" }}"></script>
+  <script type="text/javascript" src="{{ "/assets/js/main.js" }}"></script>
 </head>
 
 <body>
   <div class="off-canvas-wrapper">
-    {% include new_mobile_menu.html %}
+    {% include mobile_menu.html %}
     <div class="off-canvas-content" data-off-canvas-content>
       <div id="site">
-        {% include new_header.html %}
+        {% include header.html %}
         <main>
           {{ content }}
+          <section class="mod cta">
+              <div class="row align-center">
+                  <div class="columns small-10 large-8 text-center">
+                      <h2>Are You Ready to Team-Up & Grow Faster?</h2>
+                      <a href="apply" class="button hollow white" data-aos="zoom-in">Sign Up & Accelerate Your Growth</a>
+                  </div>
+              </div>
+          </section>
         </main>
-        {% include new_footer.html %}
+        {% include footer.html %}
       </div>
     </div>
   </div>
+  <script>
+    init();
+  </script>
 </body>
 
 </html>
