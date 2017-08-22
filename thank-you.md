@@ -1,9 +1,12 @@
 ---
-title: Thank you! Your Application is complete.
+title: Thanks! Now let's set up a time to talk.
 permalink: "/thank-you/"
 layout: document
 ---
 
-Way to go! We’ve received your application and will begin reviewing it as soon as we can. **You should hear from us in a couple days.**
+##### Thank you for applying!
 
-If you have any questions, don’t hesitate to email us at [hello@ownersup.com](mailto:hello@ownersup.com)
+The first step is to set up a time to talk. Here is a [link](https://bookme.name/ownersup) to my calendar
+
+
+<script src="https://bookme.name/js/booklikeaboss.embed.js?i=337&h=y7Ei0nkpW30h4579bAzAloBwYsxdD8DTs7DARFK9RMUpsxREy9ZCLGm1zF6m" async></script>

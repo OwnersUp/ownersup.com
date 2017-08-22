@@ -1,24 +1,39 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  {% include head.html %}
+  <title>
+    {% if page.title %}{{ page.title | escape }} - {% endif %} {{ site.title | escape }}
+  </title>
 
-  <body>
-    <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KNMW9L9"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+  <link rel="stylesheet" href="{{ "css/main.css" | prepend: site.baseurl }}" />
+  <link rel="stylesheet" href="{{ "bower_components/swiper/dist/css/swiper.min.css" | prepend: site.baseurl }}"/>
+  <link rel="stylesheet" href="{{ "bower_components/aos/dist/aos.css" | prepend: site.baseurl }}"/>
 
-    {% include navbar.html %}
+  <script type="text/javascript" src="{{ "bower_components/jquery/dist/jquery.min.js" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "bower_components/swiper/dist/js/swiper.jquery.min.js" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "assets/js/foundation.min.js" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "bower_components/what-input/dist/what-input.min.js" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "bower_components/aos/dist/aos.js" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "assets/js/main.js" | prepend: site.baseurl }}"></script>
+</head>
 
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
+<body>
+  <div class="off-canvas-wrapper">
+    {% include new_mobile_menu.html %}
+    <div class="off-canvas-content" data-off-canvas-content>
+      <div id="site">
+        {% include new_header.html %}
+        <main>
+          {{ content }}
+        </main>
+        {% include new_footer.html %}
       </div>
     </div>
-
-    {% include footer.html %}
-
-  </body>
+  </div>
+</body>
 
 </html>

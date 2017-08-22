@@ -1,0 +1,68 @@
+@charset "utf-8";
+@import "variables";             // Bootstrap variable overrides
+
+section .col-md-12 h1 {
+  text-align: center;
+}
+
+p {
+  margin-bottom: 25px;
+  font-size: 22px;
+  font-weight: 300;
+  line-height: 1.4;
+}
+
+.field {
+  // @extend .form-control;
+  background: red;
+}
+
+.radio-option {
+  display: block;
+}
+
+section {
+  position: relative;
+  margin-bottom: 3em;
+  padding: 1.5em 0 3em 0 ;
+  border-bottom: 1px solid $gray-lighter;
+
+  &.are-you-ready {
+    margin-top: -3em;
+    padding-top: 3em;
+    background: $brand-secondary;
+    color: #fff;
+  }
+
+  &.apply {
+    padding-top: 4em;
+  }
+}
+
+li {
+  font-size: 1.3em;
+  font-weight: 300;
+}
+
+.list-unstyled li {
+  margin-bottom: 1em;
+}
+
+.list-inline li {
+  margin: .5em 1em;
+}
+
+.rotate {
+  .rotating {
+    min-width: 200px;
+    text-align: left;
+  }
+}
+
+.embed-responsive {
+  margin-top: 1.5em;
+}
+
+.tagline {
+  h1 { line-height: 1.4em; margin-bottom: 1em; }
+}
