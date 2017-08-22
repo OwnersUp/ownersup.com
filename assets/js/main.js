@@ -3,7 +3,7 @@ jQuery(document).ready(function ($) {
     AOS.init({
         duration: 300,
         easing: 'ease-out-quad',
-        delay: 100,
+        delay: 0,
         once:true	
     });
 
