@@ -12,12 +12,9 @@
   <link rel="stylesheet" href="{{ "css/main.css" | prepend: site.baseurl }}" />
   <link rel="stylesheet" href="{{ "bower_components/swiper/dist/css/swiper.min.css" | prepend: site.baseurl }}"/>
   <link rel="stylesheet" href="{{ "bower_components/aos/dist/aos.css" | prepend: site.baseurl }}"/>
-
-  <script type="text/javascript" src="{{ "bower_components/jquery/dist/jquery.min.js" | prepend: site.baseurl }}"></script>
-  <script type="text/javascript" src="{{ "bower_components/swiper/dist/js/swiper.jquery.min.js" | prepend: site.baseurl }}"></script>
-  <script type="text/javascript" src="{{ "bower_components/what-input/dist/what-input.min.js" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "bower_components/swiper/dist/js/swiper.min.js" | prepend: site.baseurl }}"></script>
   <script type="text/javascript" src="{{ "bower_components/aos/dist/aos.js" | prepend: site.baseurl }}"></script>
-  <script type="text/javascript" src="{{ "assets/js/foundation.min.js" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "bower_components/waypoints/lib/noframework.waypoints.min.js" | prepend: site.baseurl }}"></script>
   <script type="text/javascript" src="{{ "assets/js/main.js" | prepend: site.baseurl }}"></script>
 </head>
 
@@ -34,6 +31,9 @@
       </div>
     </div>
   </div>
+  <script>
+    init();
+  </script>
 </body>
 
 </html>
