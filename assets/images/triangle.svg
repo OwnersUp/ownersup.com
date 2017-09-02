@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="22px" height="27px" viewBox="0 0 22 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
-    <title>Triangle</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Main-V3" transform="translate(-713.000000, -1503.000000)" fill="#FFFFFF">
-            <g id="Video" transform="translate(-44.000000, 1220.000000)">
-                <g id="Group-2">
-                    <path d="M778.151054,295.896984 C778.619914,296.182874 778.618149,296.64747 778.151054,296.932284 L757.848946,309.311618 C757.380086,309.597509 757,309.385981 757,308.826495 L757,284.002773 C757,283.448957 757.381851,283.232836 757.848946,283.51765 L778.151054,295.896984 Z" id="Triangle"></path>
-                </g>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg width="22" height="27" viewBox="0 0 22 27" xmlns="http://www.w3.org/2000/svg"><title>Triangle</title><path d="M21.151 12.897c.469.286.467.75 0 1.035L.85 26.312c-.469.286-.849.074-.849-.486V1.003C0 .449.382.233.849.518L21.15 12.897z" fill="#FFF" fill-rule="evenodd"/></svg>
