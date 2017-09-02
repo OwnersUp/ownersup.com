@@ -19,7 +19,23 @@
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.slim.js" charset="utf-8"></script>
   <script src="/bower_components/waypoints/lib/noframework.waypoints.min.js"></script>
-  <script src="{{ '/js/main.js' | prepend: site.baseurl }}" charset="utf-8"></script>
 
   {% include snippets/facebook-pixel.html %}
+
+  <script type="text/javascript">
+    $(function() {
+      var freeTrialWaypoint = new Waypoint({
+        element: document.getElementById('apply'),
+        handler: function(direction) {
+          ga('send', 'event', 'Application', 'View', 'Free Trial');
+          fbq('track', 'ViewContent', {content_name: 'Free Trial', content_category: 'Application'});
+        }
+      });
+
+      $( "input" ).focus(function() {
+        ga('send', 'event', 'Application', 'Interaction', 'Free Trial', $(this).data('name'));
+        fbq('track', 'InitiateCheckout', {content_name: 'Free Trial', content_category: 'Application'});
+      });
+    })
+  </script>
 </head>
