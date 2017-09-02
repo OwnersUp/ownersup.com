@@ -1,6 +1,15 @@
 ---
 layout: default
 permalink: "/"
+videos:
+  - youtube_id: FiO65xWDXy8
+    name: Jill ~ Casting Firm
+  - youtube_id: mUnELbPn3BM
+    name: Juliana ~ ScaleTime
+  - youtube_id: EYdL1fR6DmI
+    name: Jill ~ Strickman-Ripps Inc
+  - youtube_id: WcZ-nTp2YP4
+    name: Micheal ~ Small Pond Enterprises
 ---
 
 <section class="mod home-banner">
@@ -48,30 +57,22 @@ permalink: "/"
         <div class="columns large-12 text-center">
             <div class="swiper-container" id="video-slider-1">
                 <div class="swiper-wrapper">
+                  {% for video in page.videos %}
                     <div class="swiper-slide">
                         <div class="ytplayer">
-                            <iframe width="853" height="480" src="https://www.youtube.com/embed/FiO65xWDXy8?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0"
-                                allowfullscreen></iframe>
+                            <iframe
+                              width="853" height="480"
+                              src="https://www.youtube.com/embed/{{ video.youtube_id }}?rel=0&amp;controls=0&amp;showinfo=0"
+                              frameborder="0" allowfullscreen></iframe>
                         </div>
                         <div class="team-intro">
                             Meet Our Solopreneurs
                         </div>
                         <div class="team-name">
-                            Jill ~ Casting Firm
+                            {{ video.name }}
                         </div>
                     </div>
-                    <div class="swiper-slide">
-                        <div class="ytplayer">
-                            <iframe width="853" height="480" src="https://www.youtube.com/embed/FiO65xWDXy8?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0"
-                                allowfullscreen></iframe>
-                        </div>
-                        <div class="team-intro" data-swiper-parallax="-100">
-                            Meet Our Solopreneurs
-                        </div>
-                        <div class="team-name" data-swiper-parallax="-350">
-                            Jill ~ Casting Firm
-                        </div>
-                    </div>
+                  {% endfor %}
                 </div>
                 <div class="swiper-pagination"></div>
             </div>
