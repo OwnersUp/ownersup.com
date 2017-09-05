@@ -1,7 +1,7 @@
 ---
 title: Thanks! Now let's set up a time to talk.
 permalink: "/thank-you/"
-layout: document
+layout: page
 ---
 
 ##### Thank you for applying!

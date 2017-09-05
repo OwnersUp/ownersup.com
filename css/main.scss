@@ -76,6 +76,15 @@ h3 {
     }
 }
 
+body.interior.page{
+    #main-header{
+        nav{
+            background-color: $primary-color !important;
+            padding: 15px 0 20px;
+        }
+    }
+}
+
 #main-header {
     position: fixed;
     top: 0;
@@ -179,6 +188,13 @@ h3 {
 }
 
 .mod {
+    &.page{
+        .page-title{
+            padding:80px 0;
+            text-align:center;
+        }
+        padding:100px 0 50px;
+    }
     overflow:hidden;
     &.home-banner {
         display: block;
