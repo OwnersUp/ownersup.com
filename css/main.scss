@@ -198,7 +198,6 @@ body.interior.page{
     overflow:hidden;
     &.home-banner {
         display: block;
-        background-image: url(../assets/images/home-banner-bg.jpg);
         background-size: cover;
         background-repeat: no-repeat;
         height: 768px;
@@ -630,7 +629,7 @@ body.interior.page{
             }
         }
     }
-    
+
     &.pricing {
         background-color: $secondary-color;
         color: $white;
