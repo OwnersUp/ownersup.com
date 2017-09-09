@@ -1,7 +1,7 @@
 ---
 title: About the team at OwnersUp
 permalink: "/about/"
-layout: default
+layout: page
 redirect_from:
   - /team/
 ---

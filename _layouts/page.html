@@ -1,56 +1,14 @@
-<!doctype html>
-<html class="no-js" lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-  <title>
-    {% if page.title %}{{ page.title | escape }} - {% endif %} {{ site.title | escape }}
-  </title>
-
-  <link rel="stylesheet" href="{{ "/css/main.css" }}" />
-  <link rel="stylesheet" href="{{ "/bower_components/swiper/dist/css/swiper.min.css" }}"/>
-  <link rel="stylesheet" href="{{ "/bower_components/aos/dist/aos.css" }}"/>
-  <script type="text/javascript" src="{{ "/bower_components/swiper/dist/js/swiper.min.js" }}"></script>
-  <script type="text/javascript" src="{{ "/bower_components/aos/dist/aos.js" }}"></script>
-  <script type="text/javascript" src="{{ "/bower_components/waypoints/lib/noframework.waypoints.min.js" }}"></script>
-  <script type="text/javascript" src="{{ "/assets/js/main.js" }}"></script>
-</head>
-
-<body class="interior page">
-  <div class="off-canvas-wrapper">
-    {% include mobile_menu.html %}
-    <div class="off-canvas-content" data-off-canvas-content>
-      <div id="site">
-        {% include header.html %}
-        <main>
-          <section class="mod page">
-              <div class="row align-center">
-                  <div class="colunmns large-12">
-                    {% if page.title %}
-                      <h1 class="page-title">{{ page.title }}</h1>    
-                    {% endif %}
-                    {{ content }}
-                  </div>
-              </div>
-          </section>
-          <section class="mod cta">
-              <div class="row align-center">
-                  <div class="columns small-10 large-8 text-center">
-                      <h2>Are You Ready to Team-Up & Grow Faster?</h2>
-                      <a href="apply" class="button hollow white" data-aos="zoom-in">Sign Up & Accelerate Your Growth</a>
-                  </div>
-              </div>
-          </section>
-        </main>
-        {% include footer.html %}
-      </div>
+---
+layout: default
+bodyClasses: interior page
+---
+<section class="mod page">
+  <div class="row align-center">
+    <div class="columns large-12">
+      {% if page.title %}
+        <h1 class="page-title">{{ page.title }}</h1>
+      {% endif %}
+      {{ content }}
     </div>
   </div>
-  <script>
-    init();
-  </script>
-</body>
-
-</html>
+</section>
