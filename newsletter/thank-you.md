@@ -1,7 +1,7 @@
 ---
 title: Thanks! Now download our Game Changing Tools PDF
 permalink: "/newsletter/thank-you/"
-layout: document
+layout: page
 ---
 
 [Download our game changing tools PDF](/files/ownersup-game-changing-tools9.pdf)

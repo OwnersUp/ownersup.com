@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+  {% include landing/head.html %}
+
+  <body>
+    {% include snippets/google_tag_manager.html %}
+
+    {% include navbar.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+
+    {% include landing/footer.html %}
+
+  </body>
+
+</html>

@@ -1,0 +1,41 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  {% include snippets/google-analytics.html %}
+
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+
+  <link rel="stylesheet" href="{{ "/css/landing-page.css" | prepend: site.baseurl }}">
+  {% if page.stylesheets  %}
+    {% for stylesheet in page.stylesheets %}
+      <link rel="stylesheet" href="{{ stylesheet | prepend: '/css/' | prepend: site.baseurl }}">
+    {% endfor %}
+  {% endif %}
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.slim.js" charset="utf-8"></script>
+  <script src="/bower_components/waypoints/lib/noframework.waypoints.min.js"></script>
+
+  {% include snippets/facebook-pixel.html %}
+
+  <script type="text/javascript">
+    $(function() {
+      var freeTrialWaypoint = new Waypoint({
+        element: document.getElementById('apply'),
+        handler: function(direction) {
+          ga('send', 'event', 'Application', 'View', 'Free Trial');
+          fbq('track', 'ViewContent', {content_name: 'Free Trial', content_category: 'Application'});
+        }
+      });
+
+      $( "input" ).focus(function() {
+        ga('send', 'event', 'Application', 'Interaction', 'Free Trial', $(this).data('name'));
+        fbq('track', 'InitiateCheckout', {content_name: 'Free Trial', content_category: 'Application'});
+      });
+    })
+  </script>
+</head>

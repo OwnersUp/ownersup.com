@@ -1,25 +1,25 @@
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8" />
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-  {% include google-analytics.html %}
+  <title>
+    {% if page.title %}{{ page.title | escape }} - {% endif %} {{ site.title | escape }}
+  </title>
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  {% include snippets/google-analytics.html %}
 
-  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-  {% if page.stylesheets  %}
-    {% for stylesheet in page.stylesheets %}
-      <link rel="stylesheet" href="{{ stylesheet | prepend: '/css/' | prepend: site.baseurl }}">
-    {% endfor %}
-  {% endif %}
+  <link rel="stylesheet" href="{{ "/css/main.css" }}" />
+  <link rel="stylesheet" href="{{ "/bower_components/swiper/dist/css/swiper.min.css" }}"/>
+  <link rel="stylesheet" href="{{ "/bower_components/aos/dist/aos.css" }}"/>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.slim.js" charset="utf-8"></script>
+  <script type="text/javascript" src="{{ "/bower_components/swiper/dist/js/swiper.min.js" }}"></script>
+  <script type="text/javascript" src="{{ "/bower_components/aos/dist/aos.js" }}"></script>
   <script src="/bower_components/waypoints/lib/noframework.waypoints.min.js"></script>
-  <script src="{{ '/js/main.js' | prepend: site.baseurl }}" charset="utf-8"></script>
+  <script type="text/javascript" src="{{ "/assets/js/main.js" }}"></script>
 
-  {% include facebook-pixel.html %}
+  {% include snippets/facebook-pixel.html %}
 </head>

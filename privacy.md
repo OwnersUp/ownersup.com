@@ -1,7 +1,7 @@
 ---
 title: Privacy Policy
 permalink: "/privacy/"
-layout: document
+layout: page
 ---
 
 <!--
