@@ -3,8 +3,9 @@ title: About the team at OwnersUp
 permalink: "/about/"
 layout: page
 redirect_from:
-  - /team/
+- "/team/"
 ---
+
 > Everyone should have a success team.
 
 Being an entrepreneur is tough. 90% of companies fail in the first five years. Founders are often overwhelmed and don’t focus on the right things.
