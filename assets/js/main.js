@@ -1,4 +1,5 @@
 function init() {
+    
     //Animations library
     AOS.init({
         duration: 300,
