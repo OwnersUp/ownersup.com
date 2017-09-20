@@ -1,16 +1,16 @@
 ---
-permalink: "/"
+permalink: /
 layout: default
-hero_img_path: "/images/hero.jpg"
+hero_img_path: /images/hero.jpg
 videos:
-- youtube_id: FiO65xWDXy8
-  name: Jill ~ Casting Firm
-- youtube_id: mUnELbPn3BM
-  name: Juliana ~ ScaleTime
-- youtube_id: EYdL1fR6DmI
-  name: Jill ~ Strickman-Ripps Inc
-- youtube_id: WcZ-nTp2YP4
-  name: Micheal ~ Small Pond Enterprises
+  - youtube_id: FiO65xWDXy8
+    name: Jill ~ Casting Firm
+  - youtube_id: mUnELbPn3BM
+    name: Juliana ~ ScaleTime
+  - youtube_id: EYdL1fR6DmI
+    name: Jill ~ Strickman-Ripps Inc
+  - youtube_id: WcZ-nTp2YP4
+    name: Micheal ~ Small Pond Enterprises
 ---
 
 <section class="mod home-banner" style="background-image:url({{page.hero_img_path}})">
@@ -40,7 +40,7 @@ videos:
             <div class="logo-wrap" data-aos="fade-up" data-aos-delay="200"><img src="/assets/images/logo-real-simple.svg" width="219" height="25" /></div>
         </div>
         <div class="columns small-12 medium-4">
-            <div class="logo-wrap" data-aos="fade-up" data-aos-delay="400"><img src="/assets/images/logo-mcc.png" width="134" height "58"/></div>
+            <div class="logo-wrap" data-aos="fade-up" data-aos-delay="400"><img src="/assets/images/logo-mcc.png" width="134" height "58" /></div>
         </div>
     </div>
 </section>
@@ -48,7 +48,7 @@ videos:
     <div class="row align-center align-middle">
         <div class="columns medium-12 large-8 text-center" data-aos="fade-up">
             <h2 class="editable">What We Do</h2>
-            <p class="editable">OwnersUp is a highly selective group of solopreneurs hungry for tangible results.<br>Together we navigate challenges,
+            <p class="editable">OwnersUp is a highly selective group of solopreneurs hungry for tangible results.<br />Together we navigate challenges,
                 uncover blind spots, and inspire others daily.</p>
         </div>
     </div>
@@ -61,10 +61,7 @@ videos:
                   {% for video in page.videos %}
                     <div class="swiper-slide">
                         <div class="ytplayer">
-                            <iframe
-                              width="853" height="480"
-                              src="https://www.youtube.com/embed/{{ video.youtube_id }}?rel=0&amp;controls=0&amp;showinfo=0"
-                              frameborder="0" allowfullscreen></iframe>
+                            <iframe width="853" height="480" src="https://www.youtube.com/embed/{{ video.youtube_id }}?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                         </div>
                         <div class="team-intro editable">
                             Meet Our Solopreneurs
@@ -151,7 +148,7 @@ videos:
         </div>
         <div class="columns small-12 medium-6 large-3">
             <div class="stat" data-aos="fade-up" data-aos-delay="100">
-                <div class="stat-title editable">+300</div>
+                <div class="stat-title editable"><p>+800</p></div>
                 <div class="stat-desc editable">Goals achieved that increased their bottom line</div>
             </div>
         </div>
@@ -201,9 +198,7 @@ videos:
             <div class="columns small-12 medium-12 large-7">
                 <h3 class="icon-step-title editable">Video Call</h3>
                 <div class="icon-step-desc">
-                    <p class="editable">Each person sets their monthly goals, gets feedback and input from facilitator and their team of solopreneurs.
-                        As a team, we break down the goals to weekly actionable steps. At the end of the month, we celebrate
-                        our achievements and share lessons learned. </p>
+                    <p class="editable">Huddle with your team of 4 founders &nbsp;and a facilitator in a structured &nbsp;one hour video call. Each member gets 15 minutes to share wins, troubleshoot, and learn from each other.</p>
                 </div>
             </div>
         </div>
@@ -216,8 +211,7 @@ videos:
             <div class="columns small-12 medium-12 large-7">
                 <h3 class="icon-step-title editable">Journal Entry</h3>
                 <div class="icon-step-desc">
-                    <p class="editable">Every weekday you write down your business activities and lessons learned. Those Journal entries turn
-                        into charts that shed light on the focus of your business highlighting strengths and weakness.</p>
+                    <p class="editable">Every weekday you write down your business activities and lessons learned.<br />Those Journal entries turn into &nbsp;charts that shed light on the focus of your business highlighting strengths and weakness.</p>
                 </div>
             </div>
         </div>
@@ -234,15 +228,7 @@ videos:
             <div class="list-card" data-aos="fade-right">
                 <div class="card-wrap">
                     <div class="card-title text-center editable">Your Business & Time</div>
-                    <div class="card-items editable">
-                        <ul>
-                            <li>Runs a service-based company as a sole founder</li>
-                            <li>Earns $50k to $2mm+ in revenue each year</li>
-                            <li>Embraces “tough love,” because we hold nothing back</li>
-                            <li>Craves transparency</li>
-                            <li>Consistently optimizes their business</li>
-                        </ul>
-                    </div>
+                    <div class="card-items editable"><ul><li>Runs a service-based company as a sole founder</li><li>Earns $50k to $2mm+ in revenue each year</li><li>Consistently optimizes their business</li><li>Can commit to 1hr per week to our video calls</li><li>Wants to work on your biz as much as in your biz</li></ul></div>
                 </div>
             </div>
         </div>
@@ -253,14 +239,7 @@ videos:
             <div class="list-card" data-aos="fade-left">
                 <div class="card-wrap">
                     <div class="card-title text-center editable">Your Personal Values</div>
-                    <div class="card-items editable">
-                        <ul>
-                            <li>Can commit to 1hr per week to our video calls</li>
-                            <li>Wants to work on your biz as much as in your biz</li>
-                            <li>Possesses grit, that perfect combo passion and perseverance</li>
-                            <li>Works well alone but even better when supporting and being supported by others</li>
-                        </ul>
-                    </div>
+                    <div class="card-items editable"><ul><li>Craves transparency</li><li>Possesses grit, that perfect combo passion and perseverance</li><li>Embraces &ldquo;tough love,&rdquo; because we hold nothing back</li><li>Works well alone but even better when supporting and being supported by others</li></ul></div>
                 </div>
             </div>
         </div>
