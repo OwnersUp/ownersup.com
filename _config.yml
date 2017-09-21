@@ -24,3 +24,5 @@ gems:
 - jekyll-sitemap
 - jekyll-autoprefixer
 - jekyll-redirect-from
+
+uploads_dir: "assets/images"
