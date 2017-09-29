@@ -1,0 +1,247 @@
+---
+permalink: "/home-1"
+layout: default
+hero_img_path: "/images/hero.jpg"
+videos:
+- youtube_id: FiO65xWDXy8
+  name: Mollie-  Lecture Loft
+- youtube_id: mUnELbPn3BM
+  name: Juliana ~ ScaleTime
+- youtube_id: EYdL1fR6DmI
+  name: Jill ~ Strickman-Ripps Inc
+- youtube_id: WcZ-nTp2YP4
+  name: Micheal ~ Small Pond Enterprises
+---
+
+<section class="mod home-banner" style="background-image:url({{page.hero_img_path}})">
+    <div class="row align-center align-middle large-collapse">
+        <div class="column small-10 text-center no-pad-left no-pad-right">
+            <h1 class="title editable" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">Where Solopreneurs Team Up and Grow Faster</h1>
+            <div class="row align-center">
+                <div class="column large-8">
+                    <div class="description" data-aos="fade-up" data-aos-delay="1000" data-aos-duration="1000">
+                        <p class="editable">Solve your biggest challenges by tapping into other smart business owners and facilitators who have
+                            helped build million dollar companies.</p>
+                    </div>
+                    <div class="button-wrap" data-aos="fade-up" data-aos-delay="2000" data-aos-duration="1000">
+                        <a href="/apply" class="button fill editable">Sign Up & Accelerate Your Growth</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="mod as-seen">
+    <div class="row align-center align-middle text-center">
+        <div class="columns small-12 medium-4">
+            <div class="logo-wrap" data-aos="fade-up"><img src="/assets/images/logo-forbes.png" width="139" height="29" /></div>
+        </div>
+        <div class="columns small-12 medium-4">
+            <div class="logo-wrap" data-aos="fade-up" data-aos-delay="200"><img src="/assets/images/logo-real-simple.svg" width="219" height="25" /></div>
+        </div>
+        <div class="columns small-12 medium-4">
+            <div class="logo-wrap" data-aos="fade-up" data-aos-delay="400"><img src="/assets/images/logo-mcc.png" width="134" height "58" /></div>
+        </div>
+    </div>
+</section>
+<section class="mod intro">
+    <div class="row align-center align-middle">
+        <div class="columns medium-12 large-8 text-center" data-aos="fade-up">
+            <h2 class="editable">What We Do</h2>
+            <p class="editable">OwnersUp is a highly selective group of solopreneurs hungry for tangible results.<br />Together we navigate challenges,
+                uncover blind spots, and inspire others daily.</p>
+        </div>
+    </div>
+</section>
+<section class="mod video-slider">
+    <div class="row align-center align-middle">
+        <div class="columns large-12 text-center">
+            <div class="swiper-container" id="video-slider-1">
+                <div class="swiper-wrapper">
+                  {% for video in page.videos %}
+                    <div class="swiper-slide">
+                        <div class="ytplayer">
+                            <iframe width="853" height="480" src="https://www.youtube.com/embed/{{ video.youtube_id }}?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+                        </div>
+                        <div class="team-intro editable">
+                            Meet Our Solopreneurs
+                        </div>
+                        <div class="team-name">
+                            {{ video.name }}
+                        </div>
+                    </div>
+                  {% endfor %}
+                </div>
+                <div class="swiper-pagination"></div>
+            </div>
+            <div class="swiper-button-prev"></div>
+            <div class="swiper-button-next"></div>
+        </div>
+    </div>
+</section>
+<section class="mod steps">
+    <div class="row align-center text-center">
+        <div class="columns medium-12 large-10">
+            <h2 class="editable">Our Fast-Track Method to Success</h2>
+        </div>
+    </div>
+    <div class="row align-middle align-center">
+        <div class="columns small-12 medium-12 small-order-2 large-order-1 large-5" data-aos="fade-right">
+            <div class="step-num">1</div>
+            <div class="step-title editable">Receive Effective Personalized Feedback</div>
+            <div class="step-desc editable">
+                <p>Get expert advice that is actionable, measureable, and tailored for your unique business challenges with
+                    expert OwnersUP facilitators who have helped grow businesses into the millions.</p>
+            </div>
+        </div>
+        <div class="columns small-12 medium-12  medium-offset-0 small-order-1 large-order-2 large-6 large-offset-1" data-aos="fade-left">
+            <div class="step-img">
+                <img src="/assets/images/fast-track-1.png" />
+            </div>
+        </div>
+    </div>
+    <div class="row align-middle">
+        <div class="columns small-12 medium-12 small-order-2 large-order-1 large-5" data-aos="fade-right">
+            <div class="step-num">2</div>
+            <div class="step-title editable">Receive Your Own Problem Solving Team</div>
+            <div class="step-desc editable">
+                <p>Connect with solopreneurs who know exactly what it is like to walk in your shoes and whose skills and knowledge
+                    complement your own. Thanks to your fellow OwnersUP teammates, you’ll spot business opportunities and
+                    obstacles that would have taken you years to find on your own.</p>
+            </div>
+        </div>
+        <div class="columns small-12 medium-12  medium-offset-0 small-order-1 large-order-2 large-6 large-offset-1" data-aos="fade-left">
+            <div class="step-img">
+                <img src="/assets/images/fast-track-2.png" />
+            </div>
+        </div>
+    </div>
+    <div class="row align-middle">
+        <div class="columns small-12 medium-12 small-order-2 large-order-1 large-5" data-aos="fade-right">
+            <div class="step-num">3</div>
+            <div class="step-title editable">Receive Concrete Results</div>
+            <div class="step-desc editable">
+                <p>As much as we love our pow-wows, we know that qualitative information isn’t enough. That’s why our OwnersUP
+                    dashboard makes the qualitative quantifiable. We reveal exactly how you allocate your time. Better yet,
+                    we measure your time commitments against your bottom line so you know where your effort counts.</p>
+            </div>
+        </div>
+        <div class="columns small-12 medium-12 medium-offset-0 small-order-1 large-order-2 large-6 large-offset-1" data-aos="fade-left">
+            <div class="step-img">
+                <img src="/assets/images/fast-track-3.png" />
+            </div>
+        </div>
+    </div>
+</section>
+<section class="mod stats">
+    <div class="row align-center">
+        <div class="columns small-12 large-7 text-center">
+            <h2 class="editable">It is more effective and fun to succeed with an OwnersUP team on your side.</h2>
+        </div>
+    </div>
+    <div class="row text-center">
+        <div class="columns small-12 medium-6 large-3">
+            <div class="stat" data-aos="fade-up" data-aos-delay="0">
+                <div class="stat-title editable">+25K</div>
+                <div class="stat-desc editable">Accomplishments Tracked</div>
+            </div>
+        </div>
+        <div class="columns small-12 medium-6 large-3">
+            <div class="stat" data-aos="fade-up" data-aos-delay="100">
+                <div class="stat-title editable"><p>+800</p></div>
+                <div class="stat-desc editable">Goals achieved that increased their bottom line</div>
+            </div>
+        </div>
+        <div class="columns small-12 medium-6 large-3">
+            <div class="stat" data-aos="fade-up" data-aos-delay="200">
+                <div class="stat-title editable">+8K</div>
+                <div class="stat-desc editable">Lessons Shared</div>
+            </div>
+        </div>
+        <div class="columns small-12 medium-6 large-3">
+            <div class="stat" data-aos="fade-up" data-aos-delay="300">
+                <div class="stat-title editable">+33%</div>
+                <div class="stat-desc editable">Increase in the first 3 months of our members revenues</div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="mod icon-steps">
+    <div class="row align-center text-center">
+        <div class="columns small-12 medium-12 large-10">
+            <h2 class="editable">How OwnersUp Works</h2>
+            <div class="icon-steps-desc">
+                <p class="editable">OwnersUP helps you build highly effective habits to succeed in your goals.</p>
+            </div>
+        </div>
+    </div>
+    <div class="icon-step" data-aos="fade-up">
+        <div class="row align-center align-middle">
+            <div class="columns small-12 medium-12 large-3">
+                <img src="/assets/images/icon-monthly.svg" width="206" height="190" />
+            </div>
+            <div class="columns small-12 medium-12 large-7">
+                <h3 class="icon-step-title editable">Goal Mapping & Monthly Review Meeting </h3>
+                <div class="icon-step-desc">
+                    <p class="editable">Each person sets their monthly goals, gets feedback and input from facilitator and their team of solopreneurs.
+                        As a team, we break down the goals to weekly actionable steps. At the end of the month, we celebrate
+                        our achievements and share lessons learned.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="icon-step" data-aos="fade-up">
+        <div class="row align-center align-middle">
+            <div class="columns small-12 medium-12 large-3">
+                <img src="/assets/images/icon-weekly.svg" width="206" height="189" />
+            </div>
+            <div class="columns small-12 medium-12 large-7">
+                <h3 class="icon-step-title editable">Video Call</h3>
+                <div class="icon-step-desc">
+                    <p class="editable">Huddle with your team of 5 founders &nbsp;and a facilitator in a structured &nbsp;one hour video call. Each member gets 11 minutes to share wins, troubleshoot, and learn from each other.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="icon-step" data-aos="fade-up">
+        <div class="row align-center align-middle">
+            <div class="columns small-12 medium-12 large-3">
+                <img src="/assets/images/icon-daily.svg" width="206" height="182" />
+            </div>
+            <div class="columns small-12 medium-12 large-7">
+                <h3 class="icon-step-title editable">Journal Entry</h3>
+                <div class="icon-step-desc">
+                    <p class="editable">Every weekday you write down your business activities and lessons learned.<br />Those Journal entries turn into &nbsp;charts that shed light on the focus of your business highlighting strengths and weakness.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="mod list-cards">
+    <div class="row align-center text-center">
+        <div class="columns small-10 medium-10 large-8">
+            <h2 class="editable">What Does It Take to Succeed in OwnersUp? </h2>
+        </div>
+    </div>
+    <div class="row">
+        <div class="columns small-12 medium-6 large-5">
+            <div class="list-card" data-aos="fade-right">
+                <div class="card-wrap">
+                    <div class="card-title text-center editable">Your Business & Time</div>
+                    <div class="card-items editable"><ul><li>Runs a service-based company as a sole founder</li><li>Earns $50k to $2mm+ in revenue each year</li><li>Consistently optimizes their business</li><li>Can commit to 1hr per week to our video calls</li><li>Wants to work on your biz as much as in your biz</li></ul></div>
+                </div>
+            </div>
+        </div>
+        <div class="columns large-2 text-center show-for-large">
+            <div class="plus" data-aos="zoom-in-up"><img src="/assets/images/icon-plus.svg" widht="63" height="63" /></div>
+        </div>
+        <div class="columns small-12 medium-6 large-5">
+            <div class="list-card" data-aos="fade-left">
+                <div class="card-wrap">
+                    <div class="card-title text-center editable">Your Personal Values</div>
+                    <div class="card-items editable"><ul><li>Craves transparency</li><li>Possesses grit, that perfect combo passion and perseverance</li><li>Embraces &ldquo;tough love,&rdquo; because we hold nothing back</li><li>Works well alone but even better when supporting and being supported by others</li></ul></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
