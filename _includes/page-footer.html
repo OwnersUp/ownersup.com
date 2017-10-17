@@ -16,9 +16,19 @@
     </div>
 </footer>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.slim.js" charset="utf-8"></script>
+<!-- <script type="text/javascript" src="{{ "/bower_components/foundation-sites/foundation-off-canvas.min.js" }}"></script> -->
+<script type="text/javascript" src="{{ "/bower_components/swiper/dist/js/swiper.min.js" }}"></script>
+<script type="text/javascript" src="{{ "/bower_components/aos/dist/aos.js" }}"></script>
+<script src="/bower_components/waypoints/lib/noframework.waypoints.min.js"></script>
+<script type="text/javascript" src="{{ "/assets/js/main.js" }}"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/vanilla-lazyload/8.2.0/lazyload.min.js"></script>
 <script>
-  jQuery(document).foundation();
-  init();
+  //jQuery(document).foundation();
+  $(document).ready(function(){
+    init();
+    new LazyLoad();
+  });
 </script>
 
 {% include snippets/active-campaign-tracking.html %}
