@@ -1,0 +1,5 @@
+/free-trial-aw /aw
+/free-trial-fb /fb
+/free-trial-in /in
+/free-trial-ln /ln
+/free-trial-social /social
