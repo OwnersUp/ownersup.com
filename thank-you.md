@@ -1,11 +1,8 @@
 ---
-title: Thanks! Now let's set up a time to talk.
+title: Thanks for apply! Now let's set up a time to talk.
 permalink: "/thank-you/"
 layout: page
 ---
-
-##### Thank you for applying!
-
 The first step is to set up a time to talk. Here is a [link](https://bookme.name/ownersup) to my calendar
 
 
