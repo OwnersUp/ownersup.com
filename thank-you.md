@@ -1,6 +1,6 @@
 ---
 title: Thanks for applying! Now let's set up a time to talk.
-permalink: /thank-you/
+permalink: "/thank-you/"
 layout: page
 ---
 
