@@ -721,3 +721,103 @@ body.interior.page{
     background-image: url(../assets/images/icon-arrow-right.svg) !important;
     right: 0 !important;
 }
+
+// BLOG
+.blog .mod.page p, .blog .mod.page li, .postpage .mod.page p, .postpage .mod.page li {
+    font-family: Georgia,Cambria,"Times New Roman",Times,serif;
+    letter-spacing: .01rem;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 21px;
+    line-height: 1.58;
+    letter-spacing: -.003em;
+    margin:15px 0;
+}
+.postpage h1.page-title {
+    line-height:1.2em;
+}
+.postpage .mod.page h2, .postpage .mod.page h3, .postpage .mod.page h4 {
+    margin-top:30px;
+}
+.blog img, .blog iframe {
+    width:250px;
+    float:left;
+    margin-right:30px;
+    margin-bottom:30px;
+}
+.blog #main-logo img {
+    margin:0;
+}
+.blog iframe {
+    height:170px;
+}
+.blog hr {
+    clear:both;
+}
+.blog article h1 {
+    line-height:1.2em;
+    margin:50px 0 30px 0;
+}
+.blog .row, .postpage .row {
+    max-width: 50rem;
+}
+.blog #footer-nav li, .postpage #footer-nav li {
+    margin-right:5px;
+}
+section.journalmasthead {
+    margin-top:80px;
+    background:#F2F2F2;
+    padding:40px 0 30px 0;
+}
+.postpage section.journalmasthead {
+    padding:20px 0 15px 0;
+}
+section.journalmasthead h1, section.journalmasthead h3 {
+    font-family: Georgia,Cambria,"Times New Roman",Times,serif;
+}
+section.journalmasthead h1 {
+    letter-spacing:-2px;
+}
+section.journalmasthead h3 {
+    letter-spacing:-2px;
+}
+section.journalmasthead h4 {    
+    max-width:700px;
+    margin:0 auto 15px auto;
+    color:#777;
+    line-height:1.2em;
+}
+.postpage .mod.page, .blog .mod.page {
+    padding-top: 0px;
+}
+@media only screen and (min-width: 600px) {
+    .blog article h1 {
+        font-size:28px;
+    }
+}
+@media only screen and (max-width: 600px) {
+    .blog img, .blog iframe {
+        width:auto;
+        max-width:100%;
+        float:none;
+        margin-right:0px;
+        clear:both;
+    }
+}
+// BLOG - SOCIAL SHARE BUTTONS
+#share-buttons {
+    margin:0 auto 60px auto;
+    width:200px;
+    text-align:center;
+}
+#share-buttons p {
+    text-align:center;
+    color:#ccc;
+}
+#share-buttons img {
+    width: 35px;
+    padding: 5px;
+    border: 0;
+    box-shadow: 0;
+    display: inline;
+}

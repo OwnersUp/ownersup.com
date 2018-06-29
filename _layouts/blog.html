@@ -1,0 +1,18 @@
+---
+layout: default
+bodyClasses: interior page blog
+---
+<section class="journalmasthead">
+    <h1 align="center">The Solopreneur’s Journal</h1>
+    <h4 align="center">Explorations in building better businesses and entrepreneurs through self reflection and accountability.</h4>
+</section>
+<section class="mod page">
+  <div class="row align-center">
+    <div class="columns large-12">
+      {% if page.title %}
+        <h1 class="page-title">{{ page.title }}</h1>
+      {% endif %}
+      {{ content }}
+    </div>
+  </div>
+</section>
