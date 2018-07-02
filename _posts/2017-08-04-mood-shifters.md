@@ -1,10 +1,16 @@
 ---
+title: 3 Ways to Shift to a Better Mood
+date: 2017-08-04 11:11:00 Z
+categories:
+- general
+tags:
+- Happiness
+- Entrepreneurship
+- Solopreneur
+- Exercise
+- Gratitude
 layout: post
-title: "3 Ways to Shift to a Better Mood"
-date: 2017-08-04 11:11
-category: [ general ]
-tags: [ Happiness, Entrepreneurship, Solopreneur, Exercise, Gratitude ]
-image: /images/posts/mood-shifters.gif
+image: "/images/posts/mood-shifters.gif"
 post_author: Tanya Alvarez
 ---
 

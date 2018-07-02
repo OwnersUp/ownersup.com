@@ -1,10 +1,15 @@
 ---
+title: How Being Imperfect is Better for Your Business
+date: 2017-07-11 11:11:00 Z
+categories:
+- general
+tags:
+- Perfectionism
+- Small Business
+- Goals
+- Mastermind Group
 layout: post
-title: "How Being Imperfect is Better for Your Business"
-date: 2017-07-11 11:11
-category: [ general ]
-tags: [ Perfectionism, Small Business, Goals, Mastermind Group ]
-image: /images/posts/imperfect-is-better.png
+image: "/images/posts/imperfect-is-better.png"
 post_author: Tanya Alvarez
 ---
 

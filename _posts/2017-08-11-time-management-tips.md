@@ -1,10 +1,16 @@
 ---
+title: 6 Time Management Tips for your Busy Schedule
+date: 2017-08-11 11:11:00 Z
+categories:
+- general
+tags:
+- Productivity
+- Time Management
+- Entrepreneurship
+- Small Business
+- Tips
 layout: post
-title: "6 Time Management Tips for your Busy Schedule"
-date: 2017-08-11 11:11
-category: [ general ]
-tags: [ Productivity, Time Management, Entrepreneurship, Small Business, Tips ]
-image: /images/posts/time-management-tips.gif
+image: "/images/posts/time-management-tips.gif"
 post_author: Tanya Alvarez
 ---
 

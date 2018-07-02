@@ -1,9 +1,14 @@
 ---
+title: How to get referrals through Linkedin
+date: 2016-07-23 11:11:00 Z
+tags:
+- Startup
+- Marketing
+- LinkedIn
+- Solopreneur
+- Sales
 layout: post
-title: "How to get referrals through Linkedin"
-date: 2016-07-23 11:11
-tags: [ Startup, Marketing, LinkedIn, Solopreneur, Sales ]
-image: /images/posts/blank.png
+image: "/images/posts/blank.png"
 post_author: Tanya Alvarez
 ---
 

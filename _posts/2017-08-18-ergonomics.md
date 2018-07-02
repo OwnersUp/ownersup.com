@@ -1,9 +1,13 @@
 ---
+title: Make your office, and desk, ergonomic
+date: 2017-08-18 11:11:00 Z
+tags:
+- Productivity
+- Ergonomics
+- Entrepreneurship
+- Office
 layout: post
-title: "Make your office, and desk, ergonomic"
-date: 2017-08-18 11:11
-tags: [ Productivity, Ergonomics, Entrepreneurship, Office ]
-image: /images/posts/office-ergonomics-pauls-desk.jpg
+image: "/images/posts/office-ergonomics-pauls-desk.jpg"
 post_author: Tanya Alvarez
 ---
 
