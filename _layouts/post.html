@@ -3,35 +3,43 @@ layout: default
 bodyClasses: interior page postpage
 ---
 <section class="journalmasthead">
-    <h3 align="center"><a href="/blog">The Solopreneur’s Journal</a></h3>
-</section>
-<section class="mod page">
-  <div class="row align-center">
-    <div class="columns large-12">
-      {% if page.title %}
-        <h1 class="page-title">{{ page.title }}</h1>
-      {% endif %}
-      {{ content }}
-    </div>
-  </div>
+    <h3 align="center"><a href="/blog">The Entrepreneur’s Journey</a></h3>
 </section>
 
-<div id="share-buttons">
-    <p>SHARE THIS</p>
-    <!-- Facebook -->
-    <a href="http://www.facebook.com/sharer.php?u=https://ownersup.com{{page.url}}" target="_blank">
-        <img src="https://simplesharebuttons.com/images/somacro/facebook.png" alt="Facebook" />
-    </a>
-    <!-- Google+ -->
-    <a href="https://plus.google.com/share?url=https://ownersup.com{{page.url}}" target="_blank">
-        <img src="https://simplesharebuttons.com/images/somacro/google.png" alt="Google" />
-    </a>
-    <!-- LinkedIn -->
-    <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://ownersup.com{{page.url}}" target="_blank">
-        <img src="https://simplesharebuttons.com/images/somacro/linkedin.png" alt="LinkedIn" />
-    </a>
-    <!-- Twitter -->
-    <a href="https://twitter.com/share?url=https://ownersup.com{{page.url}}" target="_blank">
-        <img src="https://simplesharebuttons.com/images/somacro/twitter.png" alt="Twitter" />
-    </a>
-</div>
+<section class="mod page">
+<div class="row" style="padding-top:1px;">
+  <div class="socialfloating">{% include share-bar.html %}</div>
+  <div id="primary" class="content-area columns large-9">
+    <article class="page type-page status-publish hentry">
+      {% if page.title %}
+        <h1 class="page-title">{{ page.title }}</h1>
+        <p class="postdate">{{ page.date | date: '%b %d' }}, by {{ page.post_author }}</p>
+      {% endif %}
+      {{ content }}
+      <div class="socialfooter">{% include share-bar.html %}</div>
+    </article>
+  </div><!-- /primary -->
+  <div id="secondary" class="widget-area large-3" role="complementary">
+    <aside id="text-2" class="widget widget_text">
+      <h3 class="widget-title">Popular</h3>
+      <div class="textwidget">
+        <ul>
+        {% for post in site.posts limit:3 %}
+            <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+        </ul>
+      </div>
+    </aside>
+    <aside id="text-2" class="widget widget_text">
+      <h3 class="widget-title">Topics</h3>
+      <div class="textwidget">
+        <ul>
+        {% for tag in page.tags %}
+            <li> {{tag}} </li>
+        {% endfor %}
+        </ul>
+      </div>
+    </aside>
+  </div><!-- /secondary -->
+</div><!-- /row -->
+</section>

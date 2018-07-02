@@ -2,10 +2,13 @@
 layout: post
 title: "6 Time Management Tips for your Busy Schedule"
 date: 2017-08-11 11:11
+category: [ general ]
 tags: [ Productivity, Time Management, Entrepreneurship, Small Business, Tips ]
+image: /images/posts/time-management-tips.gif
+post_author: Tanya Alvarez
 ---
 
-<img src="/images/posts/time-management-tips.gif" />
+<img src="/images/posts/time-management-tips.gif" style="float:left;margin:0 30px 30px 0;" />
 _Stop going in circles with your schedule, end the madness!_
 
 Who has time for planning? I planned meetings and vacations but every minute of your day I thought was overkill and felt restraining. Why the heck would anyone do that? What about emergencies or interruptions, how can anyone plan for that? I always disliked scheduling when I started my first company; dislike is too nice of a word. I hated it!

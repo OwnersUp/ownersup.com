@@ -3,6 +3,8 @@ layout: post
 title: "Productivity Hack for Small Business Owners: Do more in Less Time"
 date: 2017-06-01 11:11
 tags: [ Productivity, Solopreneur, Productivity Hacks, Small Business, Time Management ]
+image: /images/posts/productivity-hack.png
+post_author: Tanya Alvarez
 ---
 
 <img src="/images/posts/productivity-hack.png" />

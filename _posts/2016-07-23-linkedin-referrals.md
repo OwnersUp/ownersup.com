@@ -3,6 +3,8 @@ layout: post
 title: "How to get referrals through Linkedin"
 date: 2016-07-23 11:11
 tags: [ Startup, Marketing, LinkedIn, Solopreneur, Sales ]
+image: /images/posts/blank.png
+post_author: Tanya Alvarez
 ---
 
 First, you have to get over “I don’t want to bother people in my network issue” or the “feeling weird.” Once you are over those feelings and remember why you started your company then we are ready to roll. Most people in your network have no clue what you are up to and probably know someone who can benefit from your product/service. And those who do know about what you do, don’t know how to introduce your company.

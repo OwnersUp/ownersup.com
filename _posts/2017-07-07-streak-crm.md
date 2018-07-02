@@ -2,11 +2,13 @@
 layout: post
 title: "How to Use Streak CRM"
 date: 2017-07-07 11:11
+category: [ general ]
 tags: [ CRM, Efficiency, Small Business, Client Management ]
+image: /images/posts/streak-crm-1.png
+post_author: Tanya Alvarez
 ---
 
 <img src="/images/posts/streak-crm-1.png" />
-_How to Use Streak-CRM_
 
 So I am letting you in on my secret weapon, Streak!! Literally, game changer and makes me look like I am so on top of my game.
 

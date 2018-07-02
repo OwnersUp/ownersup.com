@@ -3,6 +3,8 @@ layout: post
 title: "Meet The Sounding Board You & Your Business Have Been Looking For"
 date: 2018-02-11 11:11
 tags: [ Founders, Business, Freelancing, Networking, Online Business ]
+image: /images/posts/soundboard.jpg
+post_author: Tanya Alvarez
 ---
 <img src="/images/posts/soundboard.jpg" />
 

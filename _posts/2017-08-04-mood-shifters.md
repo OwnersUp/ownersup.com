@@ -2,11 +2,14 @@
 layout: post
 title: "3 Ways to Shift to a Better Mood"
 date: 2017-08-04 11:11
+category: [ general ]
 tags: [ Happiness, Entrepreneurship, Solopreneur, Exercise, Gratitude ]
+image: /images/posts/mood-shifters.gif
+post_author: Tanya Alvarez
 ---
 
 <img src="/images/posts/mood-shifters.gif" />
-_Instant happiness: star jumps in scenic places_
+<span class="small">_Instant happiness: star jumps in scenic places_</span>
 
 There are natural flows in business, but as a business owner, it can get hard to deal with those peaks and valleys that come along. Knowing they will is not much help. At times you even get into a funk, or a real bad mood, and that hinders every aspect of your life.
 

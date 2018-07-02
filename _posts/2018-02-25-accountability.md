@@ -3,6 +3,8 @@ layout: post
 title: "Everybody Talks About Accountability, But This Is What Accountability Really Looks Like"
 date: 2018-05-23 11:11
 tags: [ Startup, Accountability, Entrepreneur, Founders, Small Business ]
+image: /images/posts/accountability.png
+post_author: Tanya Alvarez
 ---
 
 I want you to meet someone.
@@ -11,7 +13,7 @@ Meet Juliana:
 
 <image src="/images/posts/accountability.png" />
 
-_What happens when it rains in the jungle? You still get out of your comfort zone and face your #fears and #goals._
+<span class="small">_What happens when it rains in the jungle? You still get out of your comfort zone and face your #fears and #goals._</span>
 
 Juliana’s a solo entrepreneur who runs a business called [ScaleTime](http://scaletime.co/), helping entrepreneurs create systems so they can scale their businesses while doing the one thing they do best. She studied at the London School of Economics and worked on Wall Street. So, you know, she’s an underachiever.
 

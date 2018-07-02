@@ -722,46 +722,41 @@ body.interior.page{
     right: 0 !important;
 }
 
-// BLOG
+/* BLOG - GENERAL */
+
 .blog .mod.page p, .blog .mod.page li, .postpage .mod.page p, .postpage .mod.page li {
     font-family: Georgia,Cambria,"Times New Roman",Times,serif;
     letter-spacing: .01rem;
     font-weight: 400;
     font-style: normal;
+    letter-spacing: -.003em;
+}
+.postpage .mod.page p, .postpage .mod.page li {
     font-size: 21px;
     line-height: 1.58;
-    letter-spacing: -.003em;
     margin:15px 0;
 }
-.postpage h1.page-title {
-    line-height:1.2em;
+.blog .posts {
+    padding-top:50px;
+}
+.blog article h1, .postpage h1.page-title {
+    line-height:1.1em;
+}
+.postpage .mod.page h1 {
+    padding-bottom:0px;
+    text-align:left;
+}
+.postpage .mod.page p.postdate, .small {
+    margin: 15px 0 30px 0;
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-size:13px;
+    color:#999;
 }
 .postpage .mod.page h2, .postpage .mod.page h3, .postpage .mod.page h4 {
     margin-top:30px;
 }
-.blog img, .blog iframe {
-    width:250px;
-    float:left;
-    margin-right:30px;
-    margin-bottom:30px;
-}
-.blog #main-logo img {
-    margin:0;
-}
-.blog iframe {
-    height:170px;
-}
-.blog hr {
-    clear:both;
-}
-.blog article h1 {
-    line-height:1.2em;
-    margin:50px 0 30px 0;
-}
-.blog .row, .postpage .row {
-    max-width: 50rem;
-}
-.blog #footer-nav li, .postpage #footer-nav li {
+.postpage #footer-nav li {
     margin-right:5px;
 }
 section.journalmasthead {
@@ -775,11 +770,13 @@ section.journalmasthead {
 section.journalmasthead h1, section.journalmasthead h3 {
     font-family: Georgia,Cambria,"Times New Roman",Times,serif;
 }
-section.journalmasthead h1 {
+section.journalmasthead h1, section.journalmasthead h3 {
     letter-spacing:-2px;
 }
-section.journalmasthead h3 {
-    letter-spacing:-2px;
+@media (max-width: 1020px) {
+    section.journalmasthead h1, section.journalmasthead h3 {
+        letter-spacing:-1px;
+    }
 }
 section.journalmasthead h4 {    
     max-width:700px;
@@ -790,11 +787,87 @@ section.journalmasthead h4 {
 .postpage .mod.page, .blog .mod.page {
     padding-top: 0px;
 }
-@media only screen and (min-width: 600px) {
-    .blog article h1 {
-        font-size:28px;
-    }
+
+/* BLOG - CARDS */
+
+.blog article {
+    width:31%;
+    float:left;
+    margin:1%;
+    height:420px;
+    overflow:hidden;
+    padding:0;
+    position: relative;
+    border-bottom:4px #F06352 solid;
+    border-radius:2px;
+    box-shadow: 0 1px 2px rgba(107, 107, 107, 0.15) 
 }
+.blog .featuredimage {
+    max-height:200px;
+    overflow:hidden;
+}
+.blog .featuredimage img {
+    width:100%;
+    margin:0 0 30px 0;
+    min-height:200px;
+}
+.blog .featuredimage img {
+    -webkit-filter: saturate(1);
+    filter: saturate(1);
+}
+.blog a:hover .featuredimage img {
+    -webkit-filter: saturate(2);
+    filter: saturate(2);    
+}
+.blog article h1 {
+    font-size:22px;
+    padding:20px 20px 0 20px;
+    margin-bottom:0;
+}
+.blog article p {
+    padding:10px 20px 0 20px;
+    margin-bottom:0;
+}
+.blog .mod.page p {
+    line-height:1.2em;
+}
+.readmore {
+    position:absolute;
+    display:inline;
+    top:377px;
+    padding:10px;
+    margin:0;
+    z-index:999;
+    font-weight:bold;
+    font-size:13px;
+    width:100%;
+    text-align:center;
+    background:linear-gradient(transparent, white);
+    color:rgba(0,0,0,0);
+}
+.readmore:hover {
+    background:#F06352;
+    color:#fff!important;
+}
+.blog p.postdate {
+    font-family: 'Lato', sans-serif!important;
+    font-style: normal;
+    font-size:13px;
+    color:#999;
+}
+@media (max-width:975px) {
+    .blog article {
+        width:47%;
+    } 
+}
+@media (max-width:640px) {
+    .blog article {
+        width:98%;
+    } 
+}
+
+/* BLOG - RESPONSIVE */
+
 @media only screen and (max-width: 600px) {
     .blog img, .blog iframe {
         width:auto;
@@ -804,20 +877,109 @@ section.journalmasthead h4 {
         clear:both;
     }
 }
-// BLOG - SOCIAL SHARE BUTTONS
-#share-buttons {
-    margin:0 auto 60px auto;
-    width:200px;
-    text-align:center;
+
+/* BLOG - SIDEBAR */
+
+.postpage #secondary {
+    padding-top:50px;
 }
-#share-buttons p {
-    text-align:center;
-    color:#ccc;
+.postpage h3.widget-title {
+    color:#999!important;
 }
-#share-buttons img {
-    width: 35px;
-    padding: 5px;
-    border: 0;
-    box-shadow: 0;
-    display: inline;
+.postpage .textwidget {
+    padding-left:20px;
+    border-left:4px solid #d2d2d2;
+}
+.postpage #secondary li {
+    font-size:16px;
+    line-height:1.2em;
+    font-family:'Lato',sans-serif;
+    list-style-type: square;
+    color:#F06352;
+}
+.postpage #secondary li, .postpage #secondary ul {
+    list-style-type:none;
+    padding-left:0;
+    margin-left:0;
+}
+.postpage #secondary {
+    margin-left:30px;
+}
+@media only screen and (min-width: 1120px) {
+    .postpage .columns {
+        max-width: 48.375rem;
+    }
+    .postpage #primary {
+        padding-left:80px;
+    }
+}
+@media only screen and (max-width: 1120px) {
+    .postpage #secondary {
+        clear:both!important;
+        width:100%;
+        margin-left:20px;
+        padding-top:0px;
+    }
+}
+
+/* BLOG - SOCIAL SHARING BAR */
+.socialfloating {
+  position: fixed;
+  top: 333px;
+  margin-left:15px;
+}
+.icon-bar {
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+.icon-bar a {
+  display:inline-block;
+  width:34px;
+  text-align: center;
+  padding: 8px 9px;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 16px;
+  line-height: 16px;
+  background: #d2d2d2;
+  margin-bottom: 10px;
+  border-radius: 18px;
+}
+.socialfloating .icon-bar a {
+  display: block;	
+}
+a.facebook:hover {
+  background: #3B5998;
+}
+a.twitter:hover {
+  background: #55ACEE;
+}
+a.google:hover {
+  background: #dd4b39;
+}
+a.linkedin:hover {
+  background: #007bb5;
+}
+.socialfooter {
+	margin-top:60px;
+}
+.socialfooter a {
+    margin-right:5px;
+}
+@media (max-width:1120px) {
+    .socialfloating {
+        display:none;
+    }
+}
+@media (min-width:1120px) {
+    .socialfooter {
+        display:none;
+    }
+}
+
+/* BLOG - OTHER */
+
+.blog #main-logo img {
+    margin:0;    
 }

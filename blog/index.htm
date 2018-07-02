@@ -6,15 +6,17 @@ permalink: "/blog/"
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.content | truncatewords: 50 | markdownify | remove: '#' }}
+      <a href="{{ site.baseurl }}{{ post.url }}">
+      <div class="featuredimage">
+          <img src="{{ site.baseurl }}{{ post.image }}">
       </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-      <hr />
+      <div class="readmore"><span>MORE</span></div>
+      <h1>{{ post.title }}</h1>
+      </a>
+      <p class="postdate">{{ post.date | date: '%b %d' }}, by {{ post.post_author }}</p>
+      <div class="entry">
+        {{ post.content | truncatewords: 50 | strip_html | markdownify | remove: '#' }}
+      </div>
     </article>
   {% endfor %}
 </div>

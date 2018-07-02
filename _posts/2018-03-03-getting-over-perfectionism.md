@@ -2,11 +2,14 @@
 layout: post
 title: "Getting over perfectionism as an Entrepreneur"
 date: 2018-05-23 11:11
+categories: [ general ]
 tags: [ Startup, Small Business, Perfectionism, Entrepreneur, Procrastination ]
+image: /images/posts/perfectionism.png
+post_author: Tanya Alvarez
 ---
 
 <iframe width="700" height="525" src="https://www.youtube.com/embed/xKVXlSjdKxo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-_This is me demonstrating how to get over perfectionism -> see I didn’t even fix my hair or edit the video!_
+<span class="small">_This is me demonstrating how to get over perfectionism -> see I didn’t even fix my hair or edit the video!_</span>
 
 ### Most Solopreneurs suffer from perfectionism
 

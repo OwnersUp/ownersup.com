@@ -3,10 +3,12 @@ layout: post
 title: "Make your office, and desk, ergonomic"
 date: 2017-08-18 11:11
 tags: [ Productivity, Ergonomics, Entrepreneurship, Office ]
+image: /images/posts/office-ergonomics-pauls-desk.jpg
+post_author: Tanya Alvarez
 ---
 
 <img src="/images/posts/office-ergonomics-pauls-desk.jpg" />
-_Paul's (Owners^UP member) office setup_
+<span class="small">_Paul's (Owners^UP member) office setup_</span>
 
 Sitting at a desk all day might seem like the safest job in the world, but it may not be. Repetitive tasks day after day, or putting your body in a cramped position day after day, can have a very negative impact. You won’t notice anything maybe for a very long time, but eventually it will take its toll on your body. That is why it is important to make your work area as ergonomic as possible, which means making it comfortable as well as conducive to your health.
 
