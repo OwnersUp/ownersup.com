@@ -1,10 +1,15 @@
 ---
+title: Finding Equilibrium, Week by Week
+date: 2015-12-02 11:11:00 Z
+categories:
+- general
+tags:
+- Startup
+- Small Business
+- Equilibrium
+- Balance
 layout: post
-title: "Finding Equilibrium, Week by Week"
-date: 2015-12-02 11:11
-categories: [ general ]
-tags: [ Startup, Small Business, Equilibrium, Balance ]
-image: /images/posts/equilibrium.jpg
+image: "/images/posts/equilibrium.jpg"
 post_author: Matt McManus
 ---
 
