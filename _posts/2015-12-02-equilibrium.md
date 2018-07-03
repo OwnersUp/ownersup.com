@@ -1,15 +1,10 @@
 ---
-title: Finding Equilibrium, Week by Week
-date: 2015-12-02 11:11:00 Z
-categories:
-- general
-tags:
-- Startup
-- Small Business
-- Equilibrium
-- Balance
 layout: post
-image: "/images/posts/equilibrium.jpg"
+title: "Finding Equilibrium, Week by Week"
+date: 2015-12-02 11:11
+categories: [ general ]
+tags: [ Startup, Small Business, Equilibrium, Balance ]
+image: /images/posts/equilibrium.jpg
 post_author: Matt McManus
 ---
 
@@ -31,8 +26,6 @@ Now that a tangible problem had been found, I set out with one clear and specifi
 After a month, the was time thoroughly carved out and positively reinforced. The best part was that it started to feel easy. My inbox was being kept consistently under control so getting to zero was easier.
 
 <img src="/images/posts/equilibrium2.png" />
-
-_I love Omnifocus_
 
 So I slowly started adding a couple other items to my Sunday night list. Each one addressing a new, particular pain point in my week.
 
