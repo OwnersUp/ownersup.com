@@ -736,6 +736,15 @@ body.interior.page{
     line-height: 1.58;
     margin:15px 0;
 }
+.postpage blockquote {
+    boder-left:none;
+    padding:0;
+    margin:0;
+}
+.postpage blockquote p {
+    border-left:3px solid #d2d2d2;
+    padding-left:30px;
+}
 .blog .posts {
     padding-top:50px;
 }
