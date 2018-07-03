@@ -1,16 +1,10 @@
 ---
-title: Getting over perfectionism as an Entrepreneur
-date: 2018-05-23 11:11:00 Z
-categories:
-- general
-tags:
-- Startup
-- Small Business
-- Perfectionism
-- Entrepreneur
-- Procrastination
 layout: post
-image: "/images/posts/perfectionism.png"
+title: "Getting over perfectionism as an Entrepreneur"
+date: 2018-05-23 11:11
+categories: [Equilibrium, Efficiency, Growth]
+tags: [ Startup, Small Business, Perfectionism, Entrepreneur, Procrastination ]
+image: /images/posts/perfectionism.png
 post_author: Tanya Alvarez
 ---
 
