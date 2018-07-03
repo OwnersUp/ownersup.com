@@ -10,9 +10,7 @@ collections:
     output: true
 version: 3.0.3
 email: hello@ownersup.com
-description: 'Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description. '
+description: 'Solve your biggest challenges by tapping into other smart business owners and facilitators who have helped build million dollar companies.'
 baseurl: ''
 url: http://ownersup.com
 twitter_username: ownersup
