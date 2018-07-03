@@ -1,10 +1,16 @@
 ---
+title: Most Startups Should Be Deer Hunters
+date: 2017-05-24 11:11:00 Z
+categories:
+- general
+tags:
+- Small Business
+- Solopreneur Communities
+- Solopreneur
+- Infographics
+- Startup
 layout: post
-title: "Most Startups Should Be Deer Hunters"
-date: 2017-05-24 11:11
-category: [ general ]
-tags: [ Small Business, Solopreneur Communities, Solopreneur, Infographics, Startup ]
-image: /images/posts/deer-hunters.png
+image: "/images/posts/deer-hunters.png"
 post_author: Tanya Alvarez
 ---
 
