@@ -25,7 +25,7 @@ bodyClasses: interior page postpage
       <h3 class="widget-title">Popular</h3>
       <div class="textwidget">
         <ul>
-        {% for post in site.posts limit:3 %}
+        {% for post in site.posts limit:3 where:"most_popular","true" %}
             <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
         {% endfor %}
         </ul>
