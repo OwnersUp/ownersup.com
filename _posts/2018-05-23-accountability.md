@@ -36,7 +36,7 @@ _(OK, maybe not that last part.)_
 
 ### How Juliana Used Accountability to Create a Predictable Lead Generator for Her Business
 
-JJuliana knew she wanted to take her business to the next level, and she decided on LinkedIn for that goal.
+Juliana knew she wanted to take her business to the next level, and she decided on LinkedIn for that goal.
 
 She started by doing a lot of research on LinkedIn lead gen. You know how it goes. A new strategy! You’re so excited! You research it…for weeks…and weeks. Analysis paralysis kicks in. Eventually, you add it to your “someday” list and move on to researching the next exciting strategy.
 
