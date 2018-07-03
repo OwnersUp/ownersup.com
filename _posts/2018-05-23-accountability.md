@@ -1,10 +1,19 @@
 ---
+title: Everybody Talks About Accountability, But This Is What Accountability Really
+  Looks Like
+date: 2018-05-23 11:11:00 Z
+categories:
+- Action
+- Accountability
+- Growth
+tags:
+- Startup
+- Accountability
+- Entrepreneur
+- Founders
+- Small Business
 layout: post
-title: "Everybody Talks About Accountability, But This Is What Accountability Really Looks Like"
-date: 2018-05-23 11:11
-categories: [Action, Accountability, Growth]
-tags: [ Startup, Accountability, Entrepreneur, Founders, Small Business ]
-image: /images/posts/accountability.png
+image: "/images/posts/accountability.png"
 post_author: Tanya Alvarez
 most_popular: true
 ---
