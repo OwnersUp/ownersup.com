@@ -27,7 +27,7 @@ So what do you do? You start acknowledging you could use outside help. You decid
 
 You turn to your inner circle.
 
-__The problem:__ You’re too close to your business and your inner circle is too.
+__The problem:__ _You’re too close to your business and your inner circle is too._
 
 Consider this: Your business might actually be failing because of your connections, not in spite of them.
 
