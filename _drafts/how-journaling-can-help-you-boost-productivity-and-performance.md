@@ -1,18 +1,19 @@
 ---
 title: How Journaling Can Help You Boost Productivity and Performance
-date: 2018-05-23 19:11:00 +0800
+date: 2018-05-23 11:11:00 Z
 categories:
-  - Action
-  - Accountability
-  - Growth
+- Action
+- Accountability
+- Growth
 tags:
-  - Startup
-  - Accountability
-  - Entrepreneur
-  - Founders
-  - Small Business
+- Startup
+- Accountability
+- Entrepreneur
+- Founders
+- Small Business
 layout: post
-image: /images/posts/accountability.png
+image: "/images/posts/accountability.png"
 post_author: Tanya Alvarez
 most_popular: true
 ---
+
