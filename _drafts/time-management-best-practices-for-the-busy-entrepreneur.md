@@ -1,18 +1,18 @@
 ---
 title: Time Management Best Practices for the Busy Entrepreneur
-date: 2018-05-23 11:11:00
+date: 2018-05-23 11:11:00 Z
 categories:
-  - Action
-  - Accountability
-  - Growth
+- Action
+- Accountability
+- Growth
 tags:
-  - Startup
-  - Accountability
-  - Entrepreneur
-  - Founders
-  - Small Business
+- Startup
+- Accountability
+- Entrepreneur
+- Founders
+- Small Business
 layout: post
-image: /images/posts/time management.jpg
+image: "/images/posts/time management.jpg"
 post_author: Tanya Alvarez
 most_popular: true
 ---
