@@ -37,7 +37,7 @@ You don’t need to be a good writer to benefit from journaling, because having 
 
 Carrying those 20 new ideas to implement and 20 tasks to do for the day can be a burden. With a journal, you can free your mind with this baggage without worrying about forgetting them. It allows you to focus on more urgent and important things, which can help increase your efficiency and productivity.
 
-2. I**t organizes your thoughts and allows them to grow.**
+1. I**t organizes your thoughts and allows them to grow.**
 
 Ideas become much clearer and faster to figure out when they are visual. When ideas are written down on a piece of paper, it’s easier sort things out, connect the dots, and see opportunities to develop concepts. It’s like planting. When you jot down your ideas, you are planting seeds of thought and letting it grow into a well-rounded plan.
 
@@ -69,7 +69,7 @@ Here are fast tips to help you get started:
 * Choose a timing that works for you. It can be in the morning, after work or before you sleep.
 * Set at least 15 to 30 minutes to write down your ideas, plans, goals, and anything you want to record.
 * Always write the date before you start.
-* Every end of the week, go back to what you have written. Ask yourself why these are important to you and where you are right now in achieving your goals.&nbsp;
+* Every end of the week, go back to what you have written. Ask yourself why these are important to you and where you are right now in achieving your goals. 
 * After a month or two, compare your first three entries with your last three. Is there progress?
 * Practice and make it a habit.
 * Want to insure you have this as a daily practice? Create an accountability group that will inspire you to journal everyday.
