@@ -1,18 +1,18 @@
 ---
 title: 'The Avengers: A Super Mastermind Group You Should Emulate'
-date: 2018-05-23 11:11:00 Z
+date: 2018-08-15 11:00:00
 categories:
-- Action
-- Accountability
-- Growth
+  - Action
+  - Accountability
+  - Growth
 tags:
-- Startup
-- Accountability
-- Entrepreneur
-- Founders
-- Small Business
+  - Startup
+  - Accountability
+  - Entrepreneur
+  - Founders
+  - Small Business
 layout: post
-image: "/images/posts/13680071.jpg"
+image: /images/posts/13680071.jpg
 post_author: Tanya Alvarez
 most_popular: true
 ---
@@ -51,7 +51,7 @@ Way back in the first Avengers movie, each member of the Avengers were used to j
 
 In a similar light, entrepreneurs and business owners use a similar accountability network in the form of business networking groups. This online mastermind group for entrepreneurs serves as the place where constructive feedback and “tough love” helps founders and professionals to improve further and solve problems together.
 
-<br>&nbsp;
+<br> 
 
 Together, they’re a powerful super group that can change the world.
 
