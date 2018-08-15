@@ -1,20 +1,19 @@
 ---
-title: >-
-  World's Most Famous People and the Mastermind Groups That Propelled Them to
+title: World's Most Famous People and the Mastermind Groups That Propelled Them to
   Success
-date: 2018-08-16 11:00:00
+date: 2018-08-16 11:00:00 Z
 categories:
-  - Action
-  - Accountability
-  - Growth
+- Action
+- Accountability
+- Growth
 tags:
-  - Startup
-  - Accountability
-  - Entrepreneur
-  - Founders
-  - Small Business
+- Startup
+- Accountability
+- Entrepreneur
+- Founders
+- Small Business
 layout: post
-image: /assets/images/screen-shot-2018-08-15-at-10-04-23-pm.png
+image: "/assets/images/screen-shot-2018-08-15-at-10-04-23-pm.png"
 post_author: Tanya Alvarez
 most_popular: true
 ---
