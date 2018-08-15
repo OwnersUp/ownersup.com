@@ -25,7 +25,7 @@ Now, entrepreneurs may not have superpowers (although we sure would love some!) 
 
 One of the ways we can do that is through a mastermind group.
 
-What is a Mastermind Group?
+### **What is a Mastermind Group?**
 
 A mastermind group (also known as accountability group) is popularized by Napoleon Hill in the 1990s as:
 
@@ -50,8 +50,6 @@ They support each other, making each other better superheroes in the process.
 Way back in the first Avengers movie, each member of the Avengers were used to just working alone, with no one to support them and no one to show them how they could’ve done things a little better. And when they had to team up to “solve a bigger problem”, they didn’t hold back any punches. They shared “tough love” with each other, even if it means criticizing another member so he could fight a lot better, or suggesting a better strategy that could improve their role as Earth’s mightiest heroes.
 
 In a similar light, entrepreneurs and business owners use a similar accountability network in the form of business networking groups. This online mastermind group for entrepreneurs serves as the place where constructive feedback and “tough love” helps founders and professionals to improve further and solve problems together.
-
-<br> 
 
 Together, they’re a powerful super group that can change the world.
 
