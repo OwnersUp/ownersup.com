@@ -1,18 +1,18 @@
 ---
 title: 'The Avengers: A Super Mastermind Group You Should Emulate'
-date: 2018-08-15 11:00:00 Z
+date: 2018-08-15 11:00:00
 categories:
-- Action
-- Accountability
-- Growth
+  - Action
+  - Accountability
+  - Growth
 tags:
-- Startup
-- Accountability
-- Entrepreneur
-- Founders
-- Small Business
+  - Startup
+  - Accountability
+  - Entrepreneur
+  - Founders
+  - Small Business
 layout: post
-image: "/images/posts/13680071.jpg"
+image: /assets/images/unnamed.jpg
 post_author: Tanya Alvarez
 most_popular: true
 ---
