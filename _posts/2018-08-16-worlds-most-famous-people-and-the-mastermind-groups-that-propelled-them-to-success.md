@@ -18,4 +18,4 @@ post_author: Tanya Alvarez
 most_popular: false
 ---
 
-<img src="/images/posts/worlds-most-famous-people.jpg" />
+<img src="/images/posts/worlds-most-famous-people.jpg">
