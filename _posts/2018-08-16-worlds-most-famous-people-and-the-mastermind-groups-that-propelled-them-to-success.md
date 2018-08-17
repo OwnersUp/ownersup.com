@@ -13,9 +13,9 @@ tags:
 - Founders
 - Small Business
 layout: post
-image: "/assets/images/worlds-most-famous-people-thumb.png"
+image: "/images/posts/worlds-most-famous-people-thumb.png"
 post_author: Tanya Alvarez
 most_popular: false
 ---
 
-<img src="/assets/images/worlds-most-famous-people.jpg" />
+<img src="/images/posts/worlds-most-famous-people.jpg" />
