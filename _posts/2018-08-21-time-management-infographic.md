@@ -1,5 +1,5 @@
 ---
-title: Time Management Best Practices [infographic]
+title: Time Management Infographic
 date: 2018-08-21 09:41:00 Z
 categories:
 - Action
