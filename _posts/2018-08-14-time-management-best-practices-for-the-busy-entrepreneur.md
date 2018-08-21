@@ -95,4 +95,4 @@ Being productive does not mean being busy. When you are on top of things, there'
 
 As an empowered entrepreneur, every minute should matter to you. Dedicate your time on things that can make your business and even yourself grow. Continue educating yourself or joining a mastermind group for entrepreneurs to learn more strategies that can help your business prosper.
 
-_To see a great infographic about time management, [click here](https://ownersup.com/accountability/growth/efficiency/2018/08/14/time-management-infographic.html).
+_To see a great infographic about time management, [click here](https://ownersup.com/accountability/growth/efficiency/2018/08/14/time-management-infographic.html)._
