@@ -19,4 +19,4 @@ most_popular: false
 
 <img src="/images/posts/time-management-infographic.jpg">
 
-For more information on time management, see [this post](https://ownersup.com/accountability/growth/efficiency/2018/08/14/time-management-best-practices-for-the-busy-entrepreneur.html).
+_For more information on time management, see [this post](https://ownersup.com/accountability/growth/efficiency/2018/08/14/time-management-best-practices-for-the-busy-entrepreneur.html)._
