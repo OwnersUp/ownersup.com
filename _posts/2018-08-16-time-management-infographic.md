@@ -1,6 +1,5 @@
 ---
-title: World's Most Famous People and the Mastermind Groups That Propelled Them to
-  Success
+title: Time Management Best Practices [infographic]
 date: 2018-08-16 09:41:00 Z
 categories:
 - Action
@@ -13,9 +12,9 @@ tags:
 - Founders
 - Small Business
 layout: post
-image: "/images/posts/worlds-most-famous-people-thumb.png"
+image: "/images/posts/time-management-infographic-thumb.jpg"
 post_author: Tanya Alvarez
 most_popular: false
 ---
 
-<img src="/images/posts/worlds-most-famous-people.jpg">
+<img src="/images/posts/time-management-infographic.jpg">
