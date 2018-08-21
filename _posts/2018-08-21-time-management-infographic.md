@@ -1,6 +1,6 @@
 ---
 title: Time Management Infographic
-date: 2018-08-21 09:41:00 Z
+date: 2018-08-21 01:01:00 Z
 categories:
 - Action
 - Accountability
