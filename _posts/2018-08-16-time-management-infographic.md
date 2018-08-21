@@ -1,6 +1,6 @@
 ---
 title: Time Management Best Practices [infographic]
-date: 2018-08-16 09:41:00 Z
+date: 2018-08-21 09:41:00 Z
 categories:
 - Action
 - Accountability
