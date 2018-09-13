@@ -1,21 +1,21 @@
 ---
 title: 6 Reasons Small Business Owners Need to Track Their Time
-date: 2018-08-21 01:01:00
+date: 2018-08-21 01:01:00 Z
 categories:
-  - Action
-  - Accountability
-  - Growth
+- Action
+- Accountability
+- Growth
 tags:
-  - Startup
-  - Accountability
-  - Entrepreneur
-  - Founders
-  - Small Business
-  - Time Management
-  - Balance
-  - Work Life Balance
+- Startup
+- Accountability
+- Entrepreneur
+- Founders
+- Small Business
+- Time Management
+- Balance
+- Work Life Balance
 layout: post
-image: /assets/images/time-management-skills-and-techniques.jpg
+image: "/assets/images/time-management-skills-and-techniques.jpg"
 post_author: Tanya Alvarez
 most_popular: false
 ---
