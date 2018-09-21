@@ -69,5 +69,3 @@ So, want to make sure you meet your next deadline or quarterly submission? Hold 
 **Above All, Be Efficient with Your Time**
 
 It should come to no surprise that moms tend to be the [most productive CEOs and entrepreneurs](https://www.forbes.com/sites/jopiazza/2017/06/01/why-becoming-a-mom-makes-you-a-better-entrepreneur/){: target="_blank"}, squeezing the most out of every hour of the workday. They don’t overanalyze, nor lament on perfectionism; they just get the job done. It’s this at-work efficiency, regardless of whether or not you’re a parent, all entrepreneurs and business owners should strive to achieve—and doing any of the above tasks will definitely help get you there.
-
-&nbsp;
