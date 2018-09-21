@@ -1,25 +1,30 @@
 ---
-title: 5 Things You Can Do in an Hour or Less to Make Yourself More Productive at
+title: >-
+  5 Things You Can Do in an Hour or Less to Make Yourself More Productive at
   Work
-date: 2018-08-21 01:01:00 Z
+date: 2018-08-21 01:01:00
 categories:
-- Action
-- Accountability
-- Growth
+  - Action
+  - Accountability
+  - Growth
 tags:
-- Startup
-- Accountability
-- Entrepreneur
-- Founders
-- Small Business
-- Time Management
-- Balance
-- Work Life Balance
+  - Startup
+  - Accountability
+  - Entrepreneur
+  - Founders
+  - Small Business
+  - Time Management
+  - Balance
+  - Work Life Balance
+  - Productivity
+  - Productivity Hacks
 layout: post
-image: "/assets/images/time-management-skills-and-techniques.jpg"
+image: /assets/images/entrepreneurial-skills.jpg
 post_author: Tanya Alvarez
 most_popular: false
 ---
+
+![](/assets/images/entrepreneurial-skills-1.jpg)
 
 Entrepreneurs and business owners are notoriously bustling. But just because they’re always on-the-go doesn’t mean they’re [being productive with their time](https://www.forbes.com/sites/martinzwilling/2014/12/31/many-entrepreneurs-are-too-busy-but-not-productive/#3ee51ec54500){: target="_blank"}. In fact, it’s estimated that the average American loses roughly about [five hours a week of work productivity,](https://nypost.com/2017/07/29/this-is-how-much-time-employees-spend-slacking-off/){: target="_blank"} lost to things like mindless smartphone use and catching-up on personal errands.
 
@@ -63,6 +68,6 @@ So, want to make sure you meet your next deadline or quarterly submission? Hold 
 
 **Above All, Be Efficient with Your Time**
 
-It should come to no surprise that moms tend to be the most productive CEOs and entrepreneurs, squeezing the most out of every hour of the workday. They don’t overanalyze, nor lament on perfectionism; they just get the job done. It’s this at-work efficiency, regardless of whether or not you’re a parent, all entrepreneurs and business owners should strive to achieve—and doing any of the above tasks will definitely help get you there.
+It should come to no surprise that moms tend to be the [most productive CEOs and entrepreneurs](https://www.forbes.com/sites/jopiazza/2017/06/01/why-becoming-a-mom-makes-you-a-better-entrepreneur/){: target="_blank"}, squeezing the most out of every hour of the workday. They don’t overanalyze, nor lament on perfectionism; they just get the job done. It’s this at-work efficiency, regardless of whether or not you’re a parent, all entrepreneurs and business owners should strive to achieve—and doing any of the above tasks will definitely help get you there.
 
 &nbsp;
