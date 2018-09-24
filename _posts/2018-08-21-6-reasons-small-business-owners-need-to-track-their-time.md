@@ -24,7 +24,9 @@ As the founder of your own business, you wear many hats. You juggle different ta
 
 Time tracking allows you to determine the tasks you're spending most of your time on. As a result, you can better manage your working hours and achieve more effective results. It paves the way for maximum productivity, thus helping your business to grow better and faster.
 
-Failing to trace how your hours are spent is detrimental to your business because making assumptions is not reliable. Statistics show that most of the time, the length of time it takes to complete a task is twice as what we expect.
+Failing to trace how your hours are spent is detrimental to your business because making assumptions is not reliable.
+
+Statistics show that most of the time, the length of time it takes to complete a task is twice as what we expect.
 
 **Why You Should Track Your Time**
 
@@ -68,4 +70,4 @@ Tracking lets you make time for other important stuff. For example, you limit yo
 
 Peter Drucker said, "If you can't measure it, you can't improve it." Measuring your time through time-tracking is the best way you can improve how you utilize it. Many entrepreneurs measure sales and expenditures, but some neglect to measure time management. How you and your team use every second is crucial for the life and growth of your business.
 
-Time tracking is important, but it shouldn’t be difficult. There are several tools, apps, and software for every size and type of business whether you need it for your personal time tracking or for your team. If you are confused on what tool you should use, you can consult an accountability group for small business owners.
+Time tracking is important, but it shouldn’t be difficult. There are several tools, apps, and software for every size and type of business whether you need it for your personal time tracking or for your team. If you are confused on what tool you should use shoot us an email for recommendations.&nbsp;
