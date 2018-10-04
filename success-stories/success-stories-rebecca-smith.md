@@ -5,7 +5,7 @@ layout: page
 ---
 <img src="/images/success-stories-rebecca-smith.jpg" style="float:left;padding-right:20px;" />
 
-> Hi, I'm Rebecca Smith. I'm the owner and Director of [Complete Performance Coaching](https://completeperformancecoaching.com), which is a sports psychology coaching company for kids and teens who are struggling with anxiety or fear in their sport.
+__Hi, I'm Rebecca Smith. I'm the owner and Director of [Complete Performance Coaching](https://completeperformancecoaching.com), which is a sports psychology coaching company for kids and teens who are struggling with anxiety or fear in their sport.__
 
 #### What were the sort of issues you faced with your business before becoming an OwnersUP member?
 
