@@ -48,9 +48,3 @@ When I joined owners up, I was a one woman operation. I was control freak. It's 
 I think if you're in a group of people you trust who have what you want, who are successful, it's easy to take the advice and take the leap. If people are giving you advice who are not successful or not committed, it's easy to kind of bat it off, but knowing that these people are successful, they know what they're talking about, they've done it, they've leaped. It made it feel safe for me to do the same.
 
 Part of my business dream was to be able to be present for my kids and when I started I was working three, 10 hour days. Now I work basically two days a week and my income has doubled.
-
-<hr />
-
-## Interested in creating your own success story?
-
-[Apply Now!](/apply)
