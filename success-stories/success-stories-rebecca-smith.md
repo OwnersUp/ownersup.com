@@ -3,7 +3,7 @@ title: Success Stories - Rebecca Smith
 permalink: "/success-stories/rebecca-smith"
 layout: page
 ---
-<img src="rebecca.jpg" style="float:left;padding-right:20px;" />
+<img src="/images/success-stories-rebecca-smith.jpg" style="float:left;padding-right:20px;" />
 
 > Hi, I'm Rebecca Smith. I'm the owner and Director of [Complete Performance Coaching](https://completeperformancecoaching.com), which is a sports psychology coaching company for kids and teens who are struggling with anxiety or fear in their sport.
 
