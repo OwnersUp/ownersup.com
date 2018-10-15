@@ -16,6 +16,9 @@ tags:
   - Work Life Balance
   - Productivity
   - Productivity Hacks
+  - Entrepreneurship
+  - Solopreneur Communities
+  - ComfortZone
 layout: post
 image: /assets/images/photo-1493225457124-a3eb161ffa5f.jpeg
 post_author: Tanya Alvarez
@@ -25,7 +28,7 @@ most_popular: false
 ![](/assets/images/photo-1493225457124-a3eb161ffa5f.jpeg)
 {: .present-before-paste}
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Photo by: [Austin Neill](https://unsplash.com/@arstyy){: target="_blank"} on [Unsplash](https://unsplash.com/photos/hgO1wFPXl3I?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText){: target="_blank"}
+                                             Photo by: [Austin Neill](https://unsplash.com/@arstyy){: target="_blank"} on [Unsplash](https://unsplash.com/photos/hgO1wFPXl3I?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText){: target="_blank"}
 {: .present-before-paste}
 
 Imagine this: You’re building a business.
@@ -150,5 +153,5 @@ Here is what I challenge you to do:
 If you can do the things listed above and challenge yourselves as a team, everyone in your group will grow.
 {: .present-before-paste}
 
-&nbsp;
+ 
 {: .present-before-paste}
