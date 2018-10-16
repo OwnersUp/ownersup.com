@@ -1,5 +1,5 @@
 ---
-title: 3 Fresh Ways to Make Content Creation a Breeze For Non Writers
+title: How To Get Comfortable Being Uncomfortable as an Entrepreneur
 date: 2018-08-21 01:01:00
 categories:
   - Action
