@@ -2,7 +2,7 @@
 title: >-
   5 Things You Can Do in an Hour or Less to Make Yourself More Productive at
   Work
-date: 2018-08-21 01:01:00
+date: 2018-08-01 01:01:00
 categories:
   - Action
   - Accountability
@@ -26,7 +26,7 @@ most_popular: false
 
 ![](/assets/images/entrepreneurial-skills-1.jpg)
 
-Entrepreneurs and business owners are notoriously busy. But just because they’re always on-the-go doesn’t mean they’re [being productive with their time](https://www.forbes.com/sites/martinzwilling/2014/12/31/many-entrepreneurs-are-too-busy-but-not-productive/#3ee51ec54500){: target="_blank"}. In fact, it’s estimated that the average American loses roughly&nbsp;[five hours a week of work productivity](https://nypost.com/2017/07/29/this-is-how-much-time-employees-spend-slacking-off/){: target="_blank"}; lost to things like mindless smartphone use and catching-up on personal errands.
+Entrepreneurs and business owners are notoriously busy. But just because they’re always on-the-go doesn’t mean they’re [being productive with their time](https://www.forbes.com/sites/martinzwilling/2014/12/31/many-entrepreneurs-are-too-busy-but-not-productive/#3ee51ec54500){: target="_blank"}. In fact, it’s estimated that the average American loses roughly [five hours a week of work productivity](https://nypost.com/2017/07/29/this-is-how-much-time-employees-spend-slacking-off/){: target="_blank"}; lost to things like mindless smartphone use and catching-up on personal errands.
 
 That said, what if you could set aside just one hour a day dedicated to a task (or habit) that could make you a more productive, well-off business owner? Here are some tips and tricks on how to do just that.
 
@@ -62,7 +62,7 @@ Eat your packed lunch at a nearby park or take a walk while on your next phone m
 
 **5. Put Your Smartphone Away**
 
-At-work distractions rob people of their productivity—and there’s no bigger culprit than our smartphones. The personal use of mobile devices alone accounts for about [an hour of lost productivity](http://fortune.com/2017/07/25/cell-phone-lost-productivity/){: target="_blank"}[&nbsp;per day](http://fortune.com/2017/07/25/cell-phone-lost-productivity/){: target="_blank"} for most American workers.
+At-work distractions rob people of their productivity—and there’s no bigger culprit than our smartphones. The personal use of mobile devices alone accounts for about [an hour of lost productivity](http://fortune.com/2017/07/25/cell-phone-lost-productivity/){: target="_blank"}[ per day](http://fortune.com/2017/07/25/cell-phone-lost-productivity/){: target="_blank"} for most American workers.
 
 So, want to make sure you meet your next deadline or quarterly submission? Hold off on checking your iOS or Android device.
 
