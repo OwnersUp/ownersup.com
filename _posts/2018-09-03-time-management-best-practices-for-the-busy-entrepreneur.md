@@ -1,18 +1,18 @@
 ---
 title: Time Management Best Practices for the Busy Entrepreneur
-date: 2018-08-14 11:29:00 Z
+date: 2018-09-03 11:29:00
 categories:
-- Accountability
-- Growth
-- Efficiency
+  - Accountability
+  - Growth
+  - Efficiency
 tags:
-- Accountability
-- Entrepreneur
-- Small Business
-- Efficiency
-- Productivity
+  - Accountability
+  - Entrepreneur
+  - Small Business
+  - Efficiency
+  - Productivity
 layout: post
-image: "/images/posts/time management.jpg"
+image: /images/posts/time management.jpg
 post_author: Tanya Alvarez
 most_popular: true
 ---
@@ -41,7 +41,7 @@ Dedicate white space in your schedule so that you don’t have to stress yoursel
 
 **Save more time by batching tasks**
 
-Shifting tasks alone consumes time, especially when you need to set up tools and open various applications. Imagine how much time is wasted when you change from one task to another and then go back to the same task after. By grouping similar tasks together, you do not only save more time but also reduce friction caused by constantly changing tasks. &nbsp;
+Shifting tasks alone consumes time, especially when you need to set up tools and open various applications. Imagine how much time is wasted when you change from one task to another and then go back to the same task after. By grouping similar tasks together, you do not only save more time but also reduce friction caused by constantly changing tasks.  
 
 **Delegate!**
 
@@ -75,11 +75,11 @@ You don't have to be a tech-savvy to benefit from several applications and tools
 
 For instance, you can use time tracking apps to monitor the length of time you spend for each task. You can join business networking groups or a mastermind group for entrepreneurs online so you can brainstorm and get insights without the need to travel. There are automation tools that can eliminate manual processes for you such as emails, social media posts, and bill payments. Use your mobile calendars to set up meeting reminders and other tasks.
 
-Nowadays, there are tools and applications for almost anything that you do. Use these to your advantage to budget and save your time well. &nbsp;
+Nowadays, there are tools and applications for almost anything that you do. Use these to your advantage to budget and save your time well.  
 
 **Follow the 80/20 rule**
 
-Not all tasks bring the same results and have equal value so it's important that you focus your time and energy on those that are more important. Out of 10 tasks, for instance, two of them are worth more than all the other 8 tasks combined. Therefore, these tasks must be accomplished first. &nbsp;
+Not all tasks bring the same results and have equal value so it's important that you focus your time and energy on those that are more important. Out of 10 tasks, for instance, two of them are worth more than all the other 8 tasks combined. Therefore, these tasks must be accomplished first.  
 
 By following the 80/20 rule, you make sure that the 20% of your tasks that are more worth it should be on top of your priorities. You only start working on the other 80% unless they are done.
 
@@ -89,10 +89,10 @@ It’s not enough to just list down your tasks for a day and then work on them. 
 
 ![](/assets/images/screen-shot-2018-07-25-at-6-45-20-pm.png)
 
-###### &nbsp;
+######  
 
-Being productive does not mean being busy. When you are on top of things, there's no need to feel that your time is not enough to accomplish things. &nbsp;
+Being productive does not mean being busy. When you are on top of things, there's no need to feel that your time is not enough to accomplish things.  
 
 As an empowered entrepreneur, every minute should matter to you. Dedicate your time on things that can make your business and even yourself grow. Continue educating yourself or joining a mastermind group for entrepreneurs to learn more strategies that can help your business prosper.
 
-_To see a great infographic about time management, [click here](https://ownersup.com/action/accountability/growth/2018/08/21/time-management-infographic)._
+*To see a great infographic about time management, [click here](https://ownersup.com/action/accountability/growth/2018/08/21/time-management-infographic).*
