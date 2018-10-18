@@ -1,6 +1,6 @@
 ---
 title: How To Get Comfortable Being Uncomfortable as an Entrepreneur
-date: 2018-08-21 01:01:00
+date: 2018-10-16 01:01:00
 categories:
   - Action
   - Accountability
