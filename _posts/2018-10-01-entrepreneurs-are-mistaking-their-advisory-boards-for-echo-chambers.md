@@ -1,6 +1,6 @@
 ---
-title: Here's How To Avoid Winding Up in an Echo-Chamber
-date: 2018-08-21 01:01:00
+title: Entrepreneurs Are Mistaking Their Advisory Boards for Echo-Chambers
+date: 2018-10-01 01:01:00
 categories:
   - Action
   - Accountability
