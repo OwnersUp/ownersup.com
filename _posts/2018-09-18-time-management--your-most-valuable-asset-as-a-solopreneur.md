@@ -1,6 +1,6 @@
 ---
 title: Time Management —  Your Most Valuable Asset as a Solopreneur
-date: 2018-08-21 01:01:00
+date: 2018-09-18 01:01:00
 categories:
   - Action
   - Accountability
@@ -34,19 +34,19 @@ He often works 90-hour weeks but is somehow always chasing his tail trying to ge
 
 So let’s break-down what he does (or doesn’t do, more accurately!) and how this affects his business. You’ll see how he could potentially transform his 90 hour weeks into 30 hour weeks with just a few easy tweaks, and improve his quality output at the same time!
 
-*And if you see any of yourself in his story, you might even learn a few useful things. If nothing else, these will be great reminders...*
+*And if you see any of yourself in his story, you might even learn a few useful things. If nothing else, these will be great reminders…*
 
 #### 1. He didn’t use Eisenhower’s Decision Matrix<br>(heck, he didn’t even know what it was!)
 
-&nbsp;
+ 
 
-The Decision Matrix was named after U.S. President Dwight D. Eisenhower, who was famous for saying...
+The Decision Matrix was named after U.S. President Dwight D. Eisenhower, who was famous for saying…
 
 ##### “What is important is seldom urgent<br>and what is urgent is seldom important”.
 
 Every task is evaluated based on the two axes: important/unimportant and urgent/not urgent. There are different rules for each type of task. For example, if a task is urgent but unimportant then it should be delegated to someone else.
 
-![](/assets/images/screen-shot-2018-10-05-at-6-54-08-pm.png)<br>&nbsp;
+![](/assets/images/screen-shot-2018-10-05-at-6-54-08-pm.png)<br> 
 
 Anyway, the point is that Jason never categorized his tasks. As a result much of his day was filled with unimportant, time-wasters that he could have either delegated or, better still, eliminated completely.
 
