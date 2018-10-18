@@ -1,21 +1,21 @@
 ---
 title: 6 Reasons Small Business Owners Need to Track Their Time
-date: 2018-08-21 01:01:00 Z
+date: 2018-09-30 01:01:00
 categories:
-- Action
-- Accountability
-- Growth
+  - Action
+  - Accountability
+  - Growth
 tags:
-- Startup
-- Accountability
-- Entrepreneur
-- Founders
-- Small Business
-- Time Management
-- Balance
-- Work Life Balance
+  - Startup
+  - Accountability
+  - Entrepreneur
+  - Founders
+  - Small Business
+  - Time Management
+  - Balance
+  - Work Life Balance
 layout: post
-image: "/assets/images/time-management-skills-and-techniques.jpg"
+image: /assets/images/time-management-skills-and-techniques.jpg
 post_author: Tanya Alvarez
 most_popular: false
 ---
@@ -70,4 +70,4 @@ Tracking lets you make time for other important stuff. For example, you limit yo
 
 Peter Drucker said, "If you can't measure it, you can't improve it." Measuring your time through time-tracking is the best way you can improve how you utilize it. Many entrepreneurs measure sales and expenditures, but some neglect to measure time management. How you and your team use every second is crucial for the life and growth of your business.
 
-Time tracking is important, but it shouldn’t be difficult. There are several tools, apps, and software for every size and type of business whether you need it for your personal time tracking or for your team. If you are confused on what tool you should use shoot us an email for recommendations.&nbsp;
+Time tracking is important, but it shouldn’t be difficult. There are several tools, apps, and software for every size and type of business whether you need it for your personal time tracking or for your team. If you are confused on what tool you should use shoot us an email for recommendations.
