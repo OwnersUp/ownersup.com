@@ -1,6 +1,6 @@
 ---
 title: Using OwnersUP to Find The Perfect Professionals to Handle Your Marketing
-date: 2018-10-24 01:01:00
+date: 2018-10-25 01:01:00
 categories:
   - Action
   - Accountability
@@ -25,11 +25,11 @@ post_author: Tanya Alvarez
 most_popular: false
 ---
 
-Most people in the world of business openly admit that marketing is no easy feat. So why are you trying to juggle it yourself? &nbsp;
+Most people in the world of business openly admit that marketing is no easy feat. So why are you trying to juggle it yourself?  
 
 Entrepreneurs always come to me saying they are managing their own Adwords or Facebook campaigns. They are usually in two camps. People in the first camp say, "I tried it and didn't work for me" and people in the second camp say, "I am managing it and it's doing fine."
 
-These same entrepreneurs are solo founders or might have a small team, but they do not necessarily have a marketing person--and that means they are doing it all by themselves.
+These same entrepreneurs are solo founders or might have a small team, but they do not necessarily have a marketing person–and that means they are doing it all by themselves.
 
 Plus, even if they do have a marketing person, that individual is already stretched pretty thin between content, social media, and other aspects of the job.
 
