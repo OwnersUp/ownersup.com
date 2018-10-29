@@ -25,7 +25,7 @@ post_author: Tanya Alvarez
 most_popular: false
 ---
 
-Most people in the world of business openly admit that marketing is no easy feat. So why are you trying to juggle it yourself?  
+Most people in the world of business openly admit that marketing is no easy feat. So why are you trying to juggle it yourself? &nbsp;
 
 Entrepreneurs always come to me saying they are managing their own Adwords or Facebook campaigns. They are usually in two camps. People in the first camp say, "I tried it and didn't work for me" and people in the second camp say, "I am managing it and it's doing fine."
 
@@ -33,7 +33,7 @@ These same entrepreneurs are solo founders or might have a small team, but they 
 
 Plus, even if they do have a marketing person, that individual is already stretched pretty thin between content, social media, and other aspects of the job.
 
-##### Why Outsource?
+##### **Why Outsource?**
 
 The fact is, you have so much to do with your company, why would you want to teach yourself something new that will take so much time to become an expert on?
 
