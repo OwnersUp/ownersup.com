@@ -26,7 +26,7 @@ post_author: Tanya Alvarez
 most_popular: false
 ---
 
-Building an annual action plan will help you strategize for the year, set yourself up to achieve company and personal goals, make sure you're financially on track, and consolidate all your marketing goals and tactics into one easy-to-read-and-access document. This plan will act as a touchpoint that you can reference at your convenience, keeping you from having to waste time bouncing back between charts and graphics. And as entrepreneurs, we all know [our time is already at a premium](https://ownersup.com/action/accountability/growth/2018/08/21/time-management-infographic){: target="_blank"}.
+Building an [annual action plan](https://youtu.be/7hXHvVJQWqQ){: target="_blank"} will help you strategize for the year, set yourself up to achieve company and personal goals, make sure you're financially on track, and consolidate all your marketing goals and tactics into one easy-to-read-and-access document. This plan will act as a touchpoint that you can reference at your convenience, keeping you from having to waste time bouncing back between charts and graphics. And as entrepreneurs, we all know [our time is already at a premium](https://ownersup.com/action/accountability/growth/2018/08/21/time-management-infographic){: target="_blank"}.
 {: .present-before-paste}
 
 Ready to learn how to build an annual action plan of your own? Keep on reading, and we’ll break it down, step by step.
