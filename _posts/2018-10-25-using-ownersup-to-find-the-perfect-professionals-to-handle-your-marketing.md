@@ -33,7 +33,7 @@ These same entrepreneurs are solo founders or might have a small team, but they 
 
 Plus, even if they do have a marketing person, that individual is already stretched pretty thin between content, social media, and other aspects of the job.
 
-##### **Why Outsource?**
+**Why Outsource?**
 
 The fact is, you have so much to do with your company, why would you want to teach yourself something new that will take so much time to become an expert on?
 
@@ -52,7 +52,7 @@ I completely understand the feeling of not trusting someone again, but at Owners
 1. We actually know how the marketers’ business is doing since, on the OwnersUP platform, we track companies’ progress.
 2. Our members don’t want to disappoint another member.
 
-##### OwnersUP Member Experiences
+**OwnersUP Member Experiences**
 
 One of my members was doing Adwords on his own. He runs an online drone course and he taught himself how to do Adwords. He said he was doing great.
 
@@ -60,9 +60,10 @@ I asked him if it was worth his time and he said yes, but I asked him to check h
 
 Another member of ours runs an online performance coaching platform for gymnasts. She was doing Facebook marketing on her own. It was working but I encouraged her to try someone else. Her ROI went from breaking even to 2x her ad spend.
 
-##### Tips to Hire The Perfect Person
+**Tips to Hire The Perfect Person**
 
 * Know your ideal client.
+
 * Craft a call to action.
 * Ask their monthly management fee. Some start at $300 to $500 then it might become a percentage fee once you spend a couple thousand.
 * Gather a list of competitors.
