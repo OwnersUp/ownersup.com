@@ -20,12 +20,12 @@ tags:
   - Solopreneur Communities
   - ComfortZone
 layout: post
-image: /assets/images/stressed1.jpg
+image: /assets/images/giphy-3.gif
 post_author: Tanya Alvarez
 most_popular: false
 ---
 
-![](/assets/images/losing-clients-hurts-650x350.jpg)
+![](/assets/images/giphy-1.gif)
 
 For small business owners, “No!” is a powerful word, sometimes even more powerful<br>than a Yes. The effect of this scary N word compounds like 50% more when it comes<br>from a would-be-could-be customer.<br>Having your proposal declined, your offer rejected, your product ignored can make<br>you feel paralyzed; after all, by approaching your prospects you are making your ego<br>vulnerable. A “No,” instantly makes you doubt your worth. It leaves you feeling so<br>small…that all you want to do is shrivel up inside an invisibility cloak till that painful<br>feeling dissipates.<br>In extreme cases, small business owners develop a phobia of rejection and what ends<br>up happening is they stop trying and putting themselves out there, and that’s when<br>their downfall begins.
 
