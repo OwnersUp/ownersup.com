@@ -32,7 +32,7 @@ Building an [annual action plan](https://youtu.be/7hXHvVJQWqQ){: target="_blank"
 Ready to learn how to build an annual action plan of your own? Keep on reading, and we’ll break it down, step by step.
 {: .present-before-paste}
 
-#### 1. Get a Grip on Your Revenues and Write Down the Specifics
+**1. Get a Grip on Your Revenues and Write Down the Specifics**
 
 In order to set your company up for financial success and growth, you have to know what that looks like.
 {: .present-before-paste}
@@ -49,7 +49,7 @@ Now, take a look at your current month’s finances, making sure to jot down the
 Finally, it’s time to get a bit more detailed. Here in the “Notes” section, describe things that, financially speaking, pertain to your business like client turnover and retention, rates and pricing, etc..
 {: .present-before-paste}
 
-#### 2. Set Goals and Remind Yourself Why You Got Into Entrepreneurship
+**2. Set Goals and Remind Yourself Why You Got Into Entrepreneurship**
 
 As entrepreneurs, we sometimes get carried away with our day-to-day tasks and forget why we even got into the crazy line of work, at all. Well, here’s where the Annual Action Plan can help you rediscover past (and future) goals of yours, be them in your business or personal life.
 {: .present-before-paste}
@@ -63,7 +63,7 @@ Following suit, the “Personal Goals” should be a short-but-sweet bulleted li
 Lastly, carry that same future-setting over to your “Business Annual Goals,” fleshing-out certain company achievements you want to accomplish that year. Complete this section with items like “hiring a head of PR” or “hitting six-figures in yearly revenue,” whatever you seem fit.
 {: .present-before-paste}
 
-#### 3. Break Down Those Quarterly and Monthly Projections
+**3. Break Down Those Quarterly and Monthly Projections**
 
 Get ready to bust out your trustworthy calculator—or smartphone, in all reality. (Does anyone still use an analog calculator these days still, anyway?)
 {: .present-before-paste}
@@ -74,7 +74,7 @@ In this section, we’ll break down revenue targets for each quarter and month, 
 Also, take note of “Show Up” section and really take it to heart. Visualize the person you need to be in order to see these goals and figures to fruition—and consciously work toward being that person, day after day.
 {: .present-before-paste}
 
-#### 4. Get All Your Marketing Ducks in a Row
+**4. Get All Your Marketing Ducks in a Row**
 
 As us business owner know, all our marketing campaigns and tactics seem to go in a million different directions all at the same time. Suffice to say it’s about time you put all those marketing strategies in one place to look at and review at your will.
 {: .present-before-paste}
