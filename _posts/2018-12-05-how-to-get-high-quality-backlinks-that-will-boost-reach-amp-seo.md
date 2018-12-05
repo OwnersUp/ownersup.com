@@ -30,7 +30,7 @@ most_popular: false
 
 &nbsp;
 
-Michael helps businesses grow through search engine optimization, and he’s<br>mastered a system that enables him to help himself and his clients get high-quality backlinks that boost both reach and SEO.
+Michael helps businesses grow through search engine optimization, and he’s mastered a system that enables him to help himself and his clients get high-quality backlinks that boost both reach and SEO.
 
 **The Fundamentals**
 
