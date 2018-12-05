@@ -34,7 +34,7 @@ Michael helps businesses grow through search engine optimization, and he’s mas
 
 **The Fundamentals**
 
-One of the primary things that Michael teaches is that SEO is two parts. He compares it to making ice. Two things are required to make ice: water and<br>cold. Without one of those things, it’s simply not going to come together. When it comes to SEO, the two parts of the equation are on-site SEO and off-<br>site SEO. If you’re just doing one, you’re only working on half of the puzzle.
+One of the primary things that Michael teaches is that SEO is two parts. He compares it to making ice. Two things are required to make ice: water and cold. Without one of those things, it’s simply not going to come together. When it comes to SEO, the two parts of the equation are on-site SEO and off-site SEO. If you’re just doing one, you’re only working on half of the puzzle.
 
 On-page SEO often happens automatically, especially with a platform like Wordpress. The rest is easy. It involves mobile friendliness, site load speed, page titles, meta descriptions, URLs, and heading tags. Off-page SEO is a bit more difficult. It involves branded searches, referral traffic, social traffic, and of course: backlinks.
 
