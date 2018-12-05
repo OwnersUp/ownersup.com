@@ -52,7 +52,7 @@ The second thing is making sure that the backlink is related to your business’
 
 **Finding Backlink Opportunities**
 
-If you’re searching for backlink opportunities, you can discover them if you<br>focus on four things:<br>1. Producing great content<br>2. Generating buzz<br>3. Building an audience online<br>4. Outreach efforts
+If you’re searching for backlink opportunities, you can discover them if you focus on four things:<br>1. Producing great content<br>2. Generating buzz<br>3. Building an audience online<br>4. Outreach efforts
 
 The first point, producing great content, is also the most important. Your website will be the foundation of your business’ online presence, and it needs to be intuitively structured and filled with valuable, high-quality content that is completely relevant to your niche.
 
