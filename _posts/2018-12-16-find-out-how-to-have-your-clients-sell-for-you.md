@@ -1,6 +1,6 @@
 ---
 title: Find Out How to Have Your Clients Sell For You
-date: 2018-12-16 11:00:00
+date: 2018-12-16 07:00:00
 categories:
   - Action
   - Accountability
@@ -76,10 +76,10 @@ To wrap up the testimonial-collecting process, here are some technical details a
 
 **Final Product**
 
-Here’s an example of a finished product: *https://www.youtube.com/watch?v=1vTPFoA6KwY&t=3s* &nbsp;Our targeted runtime is less than two minutes, but this one is longer because we plan to chop it up. In this example, Rebecca explains how she doubled her income and now works only two days a week since joining OwnersUP.
+Here’s an example of a finished product: *https://www.youtube.com/watch?v=1vTPFoA6KwY&t=3s*  Our targeted runtime is less than two minutes, but this one is longer because we plan to chop it up. In this example, Rebecca explains how she doubled her income and now works only two days a week since joining OwnersUP.
 
 The value of these testimonials goes beyond video. We also use them as written testimonials, and take quotes from them for sales and marketing materials and messaging. We plan to repurpose this content for Facebook ads, Instagram, and even articles about the members.
 
-If you haven’t created any testimonials, follow our process and begin letting your clients sell for you. &nbsp;Once you experience the unique impact testimonials can have on your business, you’ll be eager to collect more.
+If you haven’t created any testimonials, follow our process and begin letting your clients sell for you.  Once you experience the unique impact testimonials can have on your business, you’ll be eager to collect more.
 
-<br>&nbsp;
+<br>
