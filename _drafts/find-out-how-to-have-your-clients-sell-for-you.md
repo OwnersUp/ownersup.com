@@ -28,8 +28,6 @@ most_popular: false
 
 ![](/assets/images/img-20180329-131450-1-1.jpg)
 
-&nbsp;
-
 **How to Create Testimonials Effortlessly in Less Than 15 Minutes**
 
 Testimonials are defacto extension of your sales team. Nobody disputes the value of testimonials, but until recently creating them was an expensive and time-consuming task. But it now takes less than 15 minutes to record a testimonial, so there’s no need to wait around for your client to draft the perfect testimonial.
@@ -60,13 +58,13 @@ Next, develop a list of questions specific for your business to generate quote-w
 
 11.. How did you feel when you started seeing those results?
 
-12. How much of your success would you attribute to the value OwnersUP provides? What kind of ROI do you estimate OwnersUP provides?
+1. How much of your success would you attribute to the value OwnersUP provides? What kind of ROI do you estimate OwnersUP provides?
 
-13. If OwnersUP didn't exist, what other marketplace alternatives would you consider? (It doesn’t have to be a direct competitor.)
+2. If OwnersUP didn't exist, what other marketplace alternatives would you consider? (It doesn’t have to be a direct competitor.)
 
-14. If you were to recommend OwnersUP to a business owner, what would you say?
+3. If you were to recommend OwnersUP to a business owner, what would you say?
 
-15. What surprised you the most or made you the happiest about joining OwnersUP?
+4. What surprised you the most or made you the happiest about joining OwnersUP?
 
 A happy customer will have no trouble answering those kinds of hard-hitting questions, but one who isn’t convinced of the value your company provides will have trouble. We also didn’t avoid asking about competitors.
 
