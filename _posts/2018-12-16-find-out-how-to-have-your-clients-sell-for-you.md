@@ -42,7 +42,7 @@ First, schedule appointments. If you’ve been in business for a few years, you 
 
 Next, develop a list of questions specific for your business to generate quote-worthy advertising copy and to understand the pain your clients felt before using your service. Provide your testimonial-givers with the questions in advance, and give them some guidelines. For instance, we asked them to spend no more than 90 seconds on each question. Here are some questions we came up with:
 
-1. Can you give us some background about your business? (***We recommended that people introduce themselves by saying something along these lines: “Hi, I’m (first name), and I'm the {job title, such as founder or CEO) of (business name}, which is a business that (explain what the business does).”)***
+1. Can you give us some background about your business? (We recommended that people introduce themselves by saying something along these lines: “Hi, I’m (first name), and I'm the {job title, such as founder or CEO) of (business name}, which is a business that (explain what the business does).”)
 
 2. What kind of issues did you face with your business before becoming an OwnersUP member?
 
@@ -56,7 +56,7 @@ Next, develop a list of questions specific for your business to generate quote-w
 
 7-10. Most people are apprehensive when they start something new like this. What was your initial reaction to OwnersUP? Then, once you got used to it, what happened next in your business? How did you find it helped your approach to business and what were the results?
 
-11.. How did you feel when you started seeing those results?
+11. How did you feel when you started seeing those results?
 
 1. How much of your success would you attribute to the value OwnersUP provides? What kind of ROI do you estimate OwnersUP provides?
 
@@ -76,10 +76,10 @@ To wrap up the testimonial-collecting process, here are some technical details a
 
 **Final Product**
 
-Here’s an example of a finished product: *https://www.youtube.com/watch?v=1vTPFoA6KwY&t=3s*  Our targeted runtime is less than two minutes, but this one is longer because we plan to chop it up. In this example, Rebecca explains how she doubled her income and now works only two days a week since joining OwnersUP.
+Here’s an example of a finished product:&nbsp;<u>https://bit.ly/2S5CuSf</u> &nbsp;Our targeted runtime is less than two minutes, but this one is longer because we plan to chop it up. In this example, Rebecca explains how she doubled her income and now works only two days a week since joining OwnersUP.
 
 The value of these testimonials goes beyond video. We also use them as written testimonials, and take quotes from them for sales and marketing materials and messaging. We plan to repurpose this content for Facebook ads, Instagram, and even articles about the members.
 
-If you haven’t created any testimonials, follow our process and begin letting your clients sell for you.  Once you experience the unique impact testimonials can have on your business, you’ll be eager to collect more.
+If you haven’t created any testimonials, follow our process and begin letting your clients sell for you. &nbsp;Once you experience the unique impact testimonials can have on your business, you’ll be eager to collect more.
 
-<br>
+<br>&nbsp;
