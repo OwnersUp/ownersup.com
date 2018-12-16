@@ -58,13 +58,13 @@ Next, develop a list of questions specific for your business to generate quote-w
 
 11. How did you feel when you started seeing those results?
 
-1. How much of your success would you attribute to the value OwnersUP provides? What kind of ROI do you estimate OwnersUP provides?
+12. How much of your success would you attribute to the value OwnersUP provides? What kind of ROI do you estimate OwnersUP provides?
 
-2. If OwnersUP didn't exist, what other marketplace alternatives would you consider? (It doesn’t have to be a direct competitor.)
+13. If OwnersUP didn't exist, what other marketplace alternatives would you consider? (It doesn’t have to be a direct competitor.)
 
-3. If you were to recommend OwnersUP to a business owner, what would you say?
+14. If you were to recommend OwnersUP to a business owner, what would you say?
 
-4. What surprised you the most or made you the happiest about joining OwnersUP?
+15. What surprised you the most or made you the happiest about joining OwnersUP?
 
 A happy customer will have no trouble answering those kinds of hard-hitting questions, but one who isn’t convinced of the value your company provides will have trouble. We also didn’t avoid asking about competitors.
 
