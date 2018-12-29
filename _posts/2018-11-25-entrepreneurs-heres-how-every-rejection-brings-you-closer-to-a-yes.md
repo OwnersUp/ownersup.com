@@ -35,7 +35,7 @@ But successful business owners know that every “No” is like a sculptor that�
 
 **Here is how Jason handles his “No’s”**
 
-Jason is an OwnersUP member who runs his own marketing agency. Pitching to new<br>clients is part of his everyday grind, and like every entrepreneur he wants his agency to keep receiving fresh clients. One of the side effects of pitching so much is rejection, and Jason is now Okay with a No. Why? Because he has gained so much value from taking the rejection personally….but personally he makes every “No” count by going the extra mile to ask his prospects why they chose to not move forward with his offer.
+Jason is an OwnersUP member who runs his own marketing agency. Pitching to new clients is part of his everyday grind, and like every entrepreneur he wants his agency to keep receiving fresh clients. One of the side effects of pitching so much is rejection, and Jason is now Okay with a No. Why? Because he has gained so much value from taking the rejection personally….but personally he makes every “No” count by going the extra mile to ask his prospects why they chose to not move forward with his offer.
 
 He does this by following up with them through an email. The one he uses is<br>mentioned below, but note that as an OwnersUP, you get to access to a bank of<br>response generating templates that have been vetted by our OwnerUP expert<br>members.
 
