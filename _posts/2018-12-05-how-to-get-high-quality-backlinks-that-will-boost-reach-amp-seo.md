@@ -46,8 +46,6 @@ First, you want your backlinks to come from a source that is well trusted. There
 
 The second thing is making sure that the backlink is related to your business’ niche. An irrelevant backlink is not going to help ranking in any way. Anyone can take a second and name ten authorities in their niche right off the top of their head. That’s where you want to aim to get backlinks from.
 
-&nbsp;
-
 **Finding Backlink Opportunities**
 
 If you’re searching for backlink opportunities, you can discover them if you focus on four things:<br>1. Producing great content<br>2. Generating buzz<br>3. Building an audience online<br>4. Outreach efforts
