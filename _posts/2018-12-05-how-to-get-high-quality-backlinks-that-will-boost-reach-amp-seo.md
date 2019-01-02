@@ -26,9 +26,7 @@ post_author: Tanya Alvarez
 most_popular: false
 ---
 
-![](/assets/images/066799cab18f6b17e087d5caea4e1f7fe5e45d79-1.jpg)
-
-&nbsp;
+[![](/assets/images/screen-shot-2019-01-02-at-6-14-47-pm.png)](https://www.youtube.com/watch?v=XNJ7cmxkwR8&amp;feature=youtu.be){: target="_blank"}
 
 Michael helps businesses grow through search engine optimization, and he’s mastered a system that enables him to help himself and his clients get **[high-quality backlinks that boost both reach and SEO](https://youtu.be/XNJ7cmxkwR8){: target="_blank"}**.
 
