@@ -68,7 +68,7 @@ Let them know that you want to collaborate and create an even better piece that 
 
 **Getting Backlinks**
 
-Michael has quite a few tricks for getting backlinks, but another top one that he explains is the guest post method. He uses this on his own website and<br>says he gets emails on a daily basis.
+Michael has quite a few tricks for getting backlinks, but another top one that he explains is the guest post method. He uses this on his own website and says he gets emails on a daily basis.
 
 Basically, put a link on your website with a link to a form allowing people to request a guest post for your blog with an agreement that you’ll get one on their blog too. You’ll be able to manually review the requests and figure out which requests are worth committing to.
 
