@@ -38,7 +38,7 @@ At OwnersUp, which helps small business owners grow their businesses through pee
 
 **Follow our step by step and learn how to collect your own testimonials.**
 
-First, schedule appointments. If you’ve been in business for a few years, you should have satisfied customers who will be willing to spend a few minutes of their time to answer questions about your business and their experience with it. We scheduled our appointment through *https://bookme.name/ownersup/testimonials*
+First, schedule appointments. If you’ve been in business for a few years, you should have satisfied customers who will be willing to spend a few minutes of their time to answer questions about your business and their experience with it. We scheduled our appointment through https://bookme.name/ownersup/testimonials
 
 Next, develop a list of questions specific for your business to generate quote-worthy advertising copy and to understand the pain your clients felt before using your service. Provide your testimonial-givers with the questions in advance, and give them some guidelines. For instance, we asked them to spend no more than 90 seconds on each question. Here are some questions we came up with:
 
@@ -76,10 +76,8 @@ To wrap up the testimonial-collecting process, here are some technical details a
 
 **Final Product**
 
-Here’s an example of a finished product:&nbsp;<u>https://bit.ly/2S5CuSf</u> &nbsp;Our targeted runtime is less than two minutes, but this one is longer because we plan to chop it up. In this example, Rebecca explains how she doubled her income and now works only two days a week since joining OwnersUP.
+Here’s an example of a finished product: https://bit.ly/2S5CuSf &nbsp;Our targeted runtime is less than two minutes, but this one is longer because we plan to chop it up. In this example, Rebecca explains how she doubled her income and now works only two days a week since joining OwnersUP.
 
 The value of these testimonials goes beyond video. We also use them as written testimonials, and take quotes from them for sales and marketing materials and messaging. We plan to repurpose this content for Facebook ads, Instagram, and even articles about the members.
 
 If you haven’t created any testimonials, follow our process and begin letting your clients sell for you. &nbsp;Once you experience the unique impact testimonials can have on your business, you’ll be eager to collect more.
-
-<br>&nbsp;
