@@ -42,29 +42,29 @@ First, schedule appointments. If you’ve been in business for a few years, you 
 
 Next, develop a list of questions specific for your business to generate quote-worthy advertising copy and to understand the pain your clients felt before using your service. Provide your testimonial-givers with the questions in advance, and give them some guidelines. For instance, we asked them to spend no more than 90 seconds on each question. Here are some questions we came up with:
 
-1. Can you give us some background about your business? (We recommended that people introduce themselves by saying something along these lines: “Hi, I’m (first name), and I'm the {job title, such as founder or CEO) of (business name}, which is a business that (explain what the business does).”)
+**1** Can you give us some background about your business? (We recommended that people introduce themselves by saying something along these lines: “Hi, I’m (first name), and I'm the {job title, such as founder or CEO) of (business name}, which is a business that (explain what the business does).”)
 
-2. What kind of issues did you face with your business before becoming an OwnersUP member?
+**2**&nbsp;What kind of issues did you face with your business before becoming an OwnersUP member?
 
-3. How did you feel when you were going through those issues?
+**3** How did you feel when you were going through those issues?
 
-4. What do you think would have happened if things had stayed the same in your business?
+**4** What do you think would have happened if things had stayed the same in your business?
 
-5. So what was going through your head when you came across OwnersUP?
+**5** So what was going through your head when you came across OwnersUP?
 
-6. What was your biggest stumbling block to joining OwnersUP? What finally laid your fears to rest and made you move forward?
+**6** What was your biggest stumbling block to joining OwnersUP? What finally laid your fears to rest and made you move forward?
 
-7-10. Most people are apprehensive when they start something new like this. What was your initial reaction to OwnersUP? Then, once you got used to it, what happened next in your business? How did you find it helped your approach to business and what were the results?
+**7-10**&nbsp;Most people are apprehensive when they start something new like this. What was your initial reaction to OwnersUP? Then, once you got used to it, what happened next in your business? How did you find it helped your approach to business and what were the results?
 
-11. How did you feel when you started seeing those results?
+**11** How did you feel when you started seeing those results?
 
-12. How much of your success would you attribute to the value OwnersUP provides? What kind of ROI do you estimate OwnersUP provides?
+**12** How much of your success would you attribute to the value OwnersUP provides? What kind of ROI do you estimate OwnersUP provides?
 
-13. If OwnersUP didn't exist, what other marketplace alternatives would you consider? (It doesn’t have to be a direct competitor.)
+**13** If OwnersUP didn't exist, what other marketplace alternatives would you consider? (It doesn’t have to be a direct competitor.)
 
-14. If you were to recommend OwnersUP to a business owner, what would you say?
+**14** If you were to recommend OwnersUP to a business owner, what would you say?
 
-15. What surprised you the most or made you the happiest about joining OwnersUP?
+**15**&nbsp;What surprised you the most or made you the happiest about joining OwnersUP?
 
 A happy customer will have no trouble answering those kinds of hard-hitting questions, but one who isn’t convinced of the value your company provides will have trouble. We also didn’t avoid asking about competitors.
 
