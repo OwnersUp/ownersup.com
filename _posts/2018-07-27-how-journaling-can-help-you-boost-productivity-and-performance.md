@@ -29,41 +29,41 @@ Another study strengthened this finding when it discovered that employees who ke
 
 Keeping the habit of writing and reviewing your journal does not always have to be done individually. You can work with your accountability group so that you have many minds to reflect and assess your actions, goals, and decisions.
 
-## **5 Benefits of Journaling:**
+**5 Benefits of Journaling:**
 
 You don’t need to be a good writer to benefit from journaling, because having a journal is not about writing. It is about the process. Check out the wonders you can enjoy when you take a few minutes to jot those ideas down.
 
-### **1. It clears your mind.**
+**1. It clears your mind.**
 
 Carrying those 20 new ideas to implement and 20 tasks to do for the day can be a burden. With a journal, you can free your mind with this baggage without worrying about forgetting them. It allows you to focus on more urgent and important things, which can help increase your efficiency and productivity.
 
-### 2. I**t organizes your thoughts and allows them to grow.**
+**2. It organizes your thoughts and allows them to grow.**
 
 Ideas become much clearer and faster to figure out when they are visual. When ideas are written down on a piece of paper, it’s easier sort things out, connect the dots, and see opportunities to develop concepts. It’s like planting. When you jot down your ideas, you are planting seeds of thought and letting it grow into a well-rounded plan.
 
-### **3. It lets you spot bad ideas.**
+**3. It lets you spot bad ideas.**
 
 A great journal does not only contain brilliant ideas. It should also help you identify the bad ones so that you can avoid wasting time and energy on them.
 
 Jotting down and reviewing bad ideas can also give birth to good ideas as you think of solutions and improvements to them.
 
-### **4. It makes tracking and reviewing of actions easy and efficient.**
+**4. It makes tracking and reviewing of actions easy and efficient.**
 
 When things go right (or wrong), there’s no pain in going back to things. You can check your journal to look at the actions you have taken. Here, you will know what strategies to recycle and what to avoid.
 
 Keeping a journal also lets you track your progress. Are you accomplishing your goals? Or are you losing track? What went wrong?
 
-### **5. It makes you more disciplined and productive.**
+**5. It makes you more disciplined and productive.**
 
 Writing down your goals is the first step to achieving them. Your journal can serve as your reminder that you have things to work on and accomplish. Reading your entries can inspire you to work on your goals.
 
 Moreover, keeping a journal requires commitment and dedication, which can teach you to be more disciplined.
 
-### **When and How to Do the Review**
+**When and How to Do the Review**
 
 So, how do you make and review a journal?
 
-Here are fast tips to help you get started:
+**Here are fast tips to help you get started:**
 
 * Pick your method you are comfortable with. Do you want a paper notebook or a digital app?
 * Choose a timing that works for you. It can be in the morning, after work or before you sleep.
@@ -74,7 +74,7 @@ Here are fast tips to help you get started:
 * Practice and make it a habit.
 * Want to insure you have this as a daily practice? Create an accountability group that will inspire you to journal everyday.
 
-### **Journaling with Your Accountability Group Will Help You Keep the Habit**
+**Journaling with Your Accountability Group Will Help You Keep the Habit**
 
 Doing things with the people who share the similar goals and objectives gives you enough motivation. The same thing goes with keeping a journal. When you keep a journal with your accountability group and review your actions with them, it’s easier to maintain the habit as you support and encourage each other.
 
