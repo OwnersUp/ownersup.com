@@ -2,7 +2,7 @@
 title: >-
   How to Stay Consistent By Using Accountability and Positive Peer Pressure to
   Your Advantage
-date: 2019-01-14 11:00:00
+date: 2019-01-14 05:00:00
 categories:
   - Action
   - Accountability
@@ -30,7 +30,7 @@ most_popular: false
 
 Contrary to popular belief, peer pressure is a highly effective means to help push someone (or yourself) to accomplish new goals or acquire fresh skill sets. [Positive peer pressure](https://www.thecoolspot.gov/peer_pressure6.aspx){: target="_blank"}, too, is also a key to developing habits, partially keystone habits.
 
-And like we’ve waxed poetic about before: Accountability is a cornerstone of change, which often lines-up with positive peer pressure. But how exactly can you deploy accountability and positive peer pressure practices to grow and drive your business?<br><br>Well, don’t worry. We’ve got you covered.&nbsp;
+And like we’ve waxed poetic about before: Accountability is a cornerstone of change, which often lines-up with positive peer pressure. But how exactly can you deploy accountability and positive peer pressure practices to grow and drive your business?<br><br>Well, don’t worry. We’ve got you covered. 
 
 **The Science (and Studies) Behind Accountability and Positive Peer Pressure**
 
@@ -38,15 +38,15 @@ Like any powerful business tools, tips, and techniques, there’s proven science
 
 Interestingly enough, shame—which is at the center of what people wrongly synonyms with peer pressure—is antithetical to driving positive change. As [Dr. Brene Brown](https://brenebrown.com/){: target="_blank"}, a well-known social research who hails from the University of Houston has gone on record to say: *You can’t shame people into changing. But you can guilt them into it*.
 
-And therein her quote is exactly why positive peer pressure and accountability work so well as social and professional change-makers: Each one is centered around guilt. But why is guilt good?&nbsp;
+And therein her quote is exactly why positive peer pressure and accountability work so well as social and professional change-makers: Each one is centered around guilt. But why is guilt good? 
 
-Easy: Guilt holds a mirror to yourself and your actions, showing you ways you can improve and change for the better. Shame, on the other hand, basically communicates to your brain that you’re beyond saving—and this version of yourself is unchangeable. &nbsp;
+Easy: Guilt holds a mirror to yourself and your actions, showing you ways you can improve and change for the better. Shame, on the other hand, basically communicates to your brain that you’re beyond saving—and this version of yourself is unchangeable.  
 
 For example, *a “[guilt driver](https://www.psychologytoday.com/us/blog/fulfillment-any-age/201208/the-definitive-guide-guilt){: target="_blank"}” would look like this: You missed today’s early morning meeting, which isn’t like you. This is unacceptable behavior, but I know you can rectify this and make sure it doesn’t happen again.*
 
 To the contrary, a *“[shame trigger](https://www.psychologytoday.com/us/blog/where-science-meets-the-steps/201501/5-ways-silence-shame){: target="_blank"}” looks like this: You missed today’s early morning meeting, which no good employee would do. Clearly, you’re not one and we made a mistake hiring you.*
 
-While each communicates the same thing, it’s crystal clear to see which one leaves room for positive change...and how the other stops any chance of that happening dead in its tracks.
+While each communicates the same thing, it’s crystal clear to see which one leaves room for positive change…and how the other stops any chance of that happening dead in its tracks.
 
 **How to Use Positive Peer Pressure and Accountability to Your Advantage**
 
@@ -72,7 +72,7 @@ Looking for a tired-and-true way to stay accountable? Well, the answer to that q
 
 [Studies show that people who regularly workout out](https://www.scientificamerican.com/article/does-exercise-really-make/){: target="_blank"} four or more times a week hold themselves to higher levels of accountability than their peers who, frankly, lounge on the couch. Suffice to say that it might be time to lace up those sneakers, and hit the gym.
 
-**Find****&nbsp;Yourself in Community**
+**Find** **Yourself in Community**
 
 In like-minded groups and communities that pedestal growth and change, positive peer pressure thrive in those spaces.
 
@@ -84,6 +84,6 @@ There’s a reason why we’re so fond of music: Our brains crave them and the s
 
 Ideally, try to create a playlist of fifteen or so songs that immediately conjure-up thoughts of productivity and optimism. These can be childhood favorites or new upbeat hits you just came across. Either way, this playlist should push you toward the best version of yourself. If it doesn’t, scratch it and build another one.
 
-So, what’re you waiting for? Incorporate these tips and tricks into your weekly routine to help keep yourself (and perhaps those around you) consistently accountable.&nbsp;
+So, what’re you waiting for? Incorporate these tips and tricks into your weekly routine to help keep yourself (and perhaps those around you) consistently accountable. 
 
 *Want to learn more about how [OwnersUP](http://ownersup.com/){: target="_blank"} can grow your small business and other entrepreneurial endeavors? Feel free to get in [contact with us](https://ownersup.com/apply){: target="_blank"}, and don’t forget to watch the video below for more insight on how to onboard clients effectively!*
