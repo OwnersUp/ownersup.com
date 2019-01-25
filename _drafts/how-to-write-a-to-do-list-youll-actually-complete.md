@@ -32,7 +32,7 @@ But, thankfully, crafting a to-do list is a tried-and-true (and scientifically p
 
 Want to learn how to write a to-do list that’ll make running through your day’s tasks a proverbial breeze? Keep on reading to find out just how to do that.
 
-Why Are To-Do Lists so Effective, Anyways?
+**Why Are To-Do Lists so Effective, Anyways?**
 
 Ask any solopreneur, and they’ll, more or less, &nbsp;say something like this: I’ve got a million things to do, and it feels like I’m running in even more directions. There, in that previous sentence, exists both the problem and solution.
 
