@@ -3,13 +3,14 @@ title: Success Stories - Rebecca Smith
 permalink: "/success-stories/rebecca-smith"
 layout: page
 ---
-#### *<img src="/images/success-stories-rebecca-smith.jpg" style="float:left;padding-right:20px;" />Hi, I'm Rebecca Smith. I'm the owner and Director of [Complete Performance Coaching](https://completeperformancecoaching.com), which is a sports psychology coaching company for kids and teens who are struggling with anxiety or fear in their sport.*
 
-<br style="clear:both;">
+#### *![](/images/success-stories-rebecca-smith.jpg)Hi, I'm Rebecca Smith. I'm the owner and Director of [Complete Performance Coaching](https://completeperformancecoaching.com), which is a sports psychology coaching company for kids and teens who are struggling with anxiety or fear in their sport.*
+
+&nbsp;
 
 **What were the sort of issues you faced with your business before becoming an OwnersUP member?**
 
-*Before joining owners up, I was this idea person who could come up with an overwhelming list of ideas and tasks and things that I wanted to do and I had all these big plans, but I would get really lost in the minutia. And I also didn't, I didn't have systems to put all this into place, so I knew I was gonna. I knew I had this great thing, but it wasn't manifesting as quickly because it was hard for me to stay on task and stay goal-oriented.*
+*Before joining OwnersUP, I was this idea person who could come up with an overwhelming list of ideas and tasks and things that I wanted to do and I had all these big plans, but I would get really lost in the minutia. And I also didn't, I didn't have systems to put all this into place, so I knew I was gonna. I knew I had this great thing, but it wasn't manifesting as quickly because it was hard for me to stay on task and stay goal-oriented.*
 
 **What did that feel like to have those issues?**
 
