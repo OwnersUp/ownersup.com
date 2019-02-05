@@ -28,8 +28,6 @@ most_popular: false
 
 ![](/assets/images/to-do-list-overwhelm-2.jpg)![](/assets/images/to-do-list-overwhelm-1.jpg)
 
-&nbsp;
-
 Every day we wake up, we’re bombarded by a litany of tasks we have to complete throughout the day. Between the personal obligations and work-related goals that fill our schedules, it’s all too easy to become overwhelmed. In fact, it’s this very sense of having too much on one’s plate that can put a person into [analysis paralysis](https://www.forbes.com/sites/jeffboss/2015/03/20/how-to-overcome-the-analysis-paralysis-of-decision-making/){: target="_blank"} or toward [decision dead ends](https://www.forbes.com/sites/forbesmarketplace/2017/04/25/is-your-website-a-dead-end-here-are-four-ways-to-find-out/){: target="_blank"}.
 
 But, thankfully, crafting a to-do list is a tried-and-true (and scientifically proven) way to tackle your day’s bevy of responsibilities. However, how you create and craft that to-do list plays a huge role as to how successful it’ll be.
@@ -91,5 +89,7 @@ Also, consider writing your to-do list on either colored paper or with a like-hu
 So, ready to tackle the day in an organized, productive, level-headed fashion? Utilize these tips to create a to-do list you’ll actually complete.
 
 *Want to learn more about how [OwnersUP](http://ownersup.com/){: target="_blank"} can grow your small business and other entrepreneurial endeavors? Feel free to get in [contact with us](https://ownersup.com/apply){: target="_blank"}, and don’t forget to watch the video below for more insight on how to onboard clients effectively!*
+
+&nbsp;
 
 **[THIS ARTICLE PREFORMED BETTER FOR SEO WHEN IT WAS JUST SKEWED FOR TO-DO LISTS; ALSO, THESE SAME PRINCIPLES CAN BE APPLIED TO PROJECTS, AS WELL.]**
