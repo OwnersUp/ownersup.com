@@ -26,7 +26,7 @@ post_author: Tanya Alvarez
 most_popular: false
 ---
 
-![](/assets/images/to-do-list-overwhelm-2.jpg)![](/assets/images/to-do-list-overwhelm-1.jpg)
+![](/assets/images/to-do-list-overwhelm-2.jpg)
 
 Every day we wake up, we’re bombarded by a litany of tasks we have to complete throughout the day. Between the personal obligations and work-related goals that fill our schedules, it’s all too easy to become overwhelmed. In fact, it’s this very sense of having too much on one’s plate that can put a person into [analysis paralysis](https://www.forbes.com/sites/jeffboss/2015/03/20/how-to-overcome-the-analysis-paralysis-of-decision-making/){: target="_blank"} or toward [decision dead ends](https://www.forbes.com/sites/forbesmarketplace/2017/04/25/is-your-website-a-dead-end-here-are-four-ways-to-find-out/){: target="_blank"}.
 
