@@ -21,18 +21,20 @@ tags:
   - ComfortZone
   - SEO
 layout: post
-image: /assets/images/how-to-stay-consistent.png
+image: /assets/images/to-do-list-overwhelm-1.jpg
 post_author: Tanya Alvarez
 most_popular: false
 ---
 
-Every day we wake up, we’re bombarded by a litany of tasks we have to complete throughout the day. Between the personal obligations and work-related goals that fill our schedules, it’s all too easy to become overwhelmed. In fact, it’s this very sense of having too much on one’s plate that can put a person into analysis paralysis or toward decision dead ends.
+![](/assets/images/to-do-list-overwhelm-1.jpg)
+
+Every day we wake up, we’re bombarded by a litany of tasks we have to complete throughout the day. Between the personal obligations and work-related goals that fill our schedules, it’s all too easy to become overwhelmed. In fact, it’s this very sense of having too much on one’s plate that can put a person into [analysis paralysis](https://www.forbes.com/sites/jeffboss/2015/03/20/how-to-overcome-the-analysis-paralysis-of-decision-making/){: target="_blank"} or toward [decision dead ends](https://www.forbes.com/sites/forbesmarketplace/2017/04/25/is-your-website-a-dead-end-here-are-four-ways-to-find-out/){: target="_blank"}.
 
 But, thankfully, crafting a to-do list is a tried-and-true (and scientifically proven) way to tackle your day’s bevy of responsibilities. However, how you create and craft that to-do list plays a huge role as to how successful it’ll be.
 
 Want to learn how to write a to-do list that’ll make running through your day’s tasks a proverbial breeze? Keep on reading to find out just how to do that.
 
-Why Are To-Do Lists so Effective, Anyways?
+**Why Are To-Do Lists so Effective, Anyways?**
 
 Ask any solopreneur, and they’ll, more or less, &nbsp;say something like this: I’ve got a million things to do, and it feels like I’m running in even more directions. There, in that previous sentence, exists both the problem and solution.
 
