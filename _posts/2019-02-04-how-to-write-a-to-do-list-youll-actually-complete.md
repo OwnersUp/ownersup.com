@@ -1,6 +1,6 @@
 ---
 title: How to Write a To-Do List You’ll Actually Complete
-date: 2019-01-25 05:00:00
+date: 2019-02-04 05:00:00
 categories:
   - Action
   - Accountability
@@ -38,31 +38,31 @@ Want to learn how to write a to-do list that’ll make running through your day�
 
 Ask any solopreneur, and they’ll, more or less, &nbsp;say something like this: I’ve got a million things to do, and it feels like I’m running in even more directions. There, in that previous sentence, exists both the problem and solution.
 
-<br>What a to-do list does is help organize and prioritize your hamster wheel of a mind. They, too, force you to build a hierarchy for those tasks, making sure the most important, time-sensitive ones get done first, giving yourself time to complete the less vital ones. Research shows that regularly writing a to-do list the night before can greatly improve both your mood and productivity levels the following day.
+<br>What a to-do list does is help organize and prioritize your hamster wheel of a mind. They, too, force you to build a hierarchy for those tasks, making sure the most important, time-sensitive ones get done first, giving yourself time to complete the less vital ones. Research shows that [regularly writing a to-do list the night](https://www.fastcompany.com/40407550/heres-how-i-completed-my-to-do-list-every-day){: target="_blank"} before can greatly improve both your mood and productivity levels the following day.
 
 What’s not to like about that?
 
-How to Create a To-Do List That’ll Fire You Up
+**How to Create a To-Do List That’ll Fire You Up**
 
 It’s easy to jot down ideas, tasks, and goals you want to accomplish that day or the next. However, it’s an entirely different thing to write one you’ll actually complete.
 
 Here’s a rundown on what you need to do to build an A-plus to-do list.
 
-Do it the Night Before
+**Do it the Night Before**
 
 Yes, you’re more than welcome to write your to-do list the morning of—but you’d be better off doing it the night before.
 
-Studies have shown that when you build your to-do list the night before, it makes you more likely to finish it the following day. Why? It’s simple: You have more time to think about how to get everything done.
+Studies have shown that when you [build your to-do list the night before](http://fortune.com/2017/04/16/leadership-career-advice-to-do-list-morning-routine-productivity-hack/){: target="_blank"}, it makes you more likely to finish it the following day. Why? It’s simple: You have more time to think about how to get everything done.
 
 Do yourself (and business venture) a favor: After brushing your teeth and washing your face, pen tomorrow’s to-do list. Your profit lines and productivity levels will thank you for doing it.
 
-Be Specific—But not too Specific
+**Be Specific—But not too Specific**
 
 There’s no point in writing a generic to-do list. But, on the same token, writing one that’s too specific can be crippling.
 
 So, how do you find a sweet spot between those two extremes? Well, it boils down to three things: Keep each task to one sentence, to the point, and free of “what if” statements. Think about treating your to-do list like an elevator pitch, which is another way to say you want to make it powerful and short.
 
-Create a Hierarchy
+**Create a Hierarchy**
 
 When you’re writing your to-do list, don’t merely write down your tasks in any order you want. To the contrary, you want to put them in a specific manner.
 
@@ -70,7 +70,7 @@ Have a slew of early-morning commitments? Write those down first. Is your day a 
 
 Doing this is an easy and effective way to make sure that, whatever may happen during the day, you get those big goals all squared away.
 
-Don’t Overload Yourself
+**Don’t Overload Yourself**
 
 Every great to-do list is one that’s, admittedly, quite short.
 
@@ -78,16 +78,16 @@ Remember when we mentioned “analysis paralysis or toward decision dead ends”
 
 To avoid such cerebral u-turns, keep your to-do list to no more than six tasks. Sometimes, you’ll find you can aggregate a few into one. Also, forcing yourself to stick to a certain task count will help you make sense of what’s important, what’s not, and what could wait to be done another time.&nbsp;
 
-Make a Physical To-Do List, and Use Colors to Your Advantage
+**Make a Physical To-Do List, and Use Colors to Your Advantage**
 
 These days, we’re accustomed to doing everything on our phones or computers. But breaking-out and an actual piece of paper and inked pen to write your to-do list is the way to go.
 
-Studies have shown that the physical act of writing things down—which doesn’t include typing, mind you—increases both your retention and awareness of what you’re penning.
+Studies have shown that the [physical act of writing things down](https://www.shopify.com/content/6-psychological-benefits-of-writing-things-down){: target="_blank"}—which doesn’t include typing, mind you—increases both your retention and awareness of what you’re penning.
 
 Also, consider writing your to-do list on either colored paper or with a like-hued gel pen. Tones of red, purple, and pink have been shown to create a sense of urgency and confidence. On the other hand, if you want your to-do list to evoke more calming vibes, think about using blue or purple pens or like-colored pieces of stationery.
 
 So, ready to tackle the day in an organized, productive, level-headed fashion? Utilize these tips to create a to-do list you’ll actually complete.
 
-Want to learn more about how OwnersUP can grow your small business and other entrepreneurial endeavors? Feel free to get in contact with us, and don’t forget to watch the video below for more insight on how to onboard clients effectively!
+*Want to learn more about how [OwnersUP](http://ownersup.com/){: target="_blank"} can grow your small business and other entrepreneurial endeavors? Feel free to get in [contact with us](https://ownersup.com/apply){: target="_blank"}, and don’t forget to watch the video below for more insight on how to onboard clients effectively!*
 
-[THIS ARTICLE PREFORMED BETTER FOR SEO WHEN IT WAS JUST SKEWED FOR TO-DO LISTS; ALSO, THESE SAME PRINCIPLES CAN BE APPLIED TO PROJECTS, AS WELL.]
+**[THIS ARTICLE PREFORMED BETTER FOR SEO WHEN IT WAS JUST SKEWED FOR TO-DO LISTS; ALSO, THESE SAME PRINCIPLES CAN BE APPLIED TO PROJECTS, AS WELL.]**
