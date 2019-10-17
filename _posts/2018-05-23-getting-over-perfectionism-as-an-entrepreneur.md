@@ -1,23 +1,26 @@
 ---
 title: Getting over perfectionism as an Entrepreneur
-date: 2018-05-23 11:11:00 Z
+date: 2018-05-23 11:11:00
 categories:
-- Equilibrium
-- Efficiency
-- Growth
+  - Equilibrium
+  - Efficiency
+  - Growth
 tags:
-- Startup
-- Small Business
-- Perfectionism
-- Entrepreneur
-- Procrastination
+  - Startup
+  - Small Business
+  - Perfectionism
+  - Entrepreneur
+  - Procrastination
 layout: post
-image: "/images/posts/perfectionism.png"
+image:
 post_author: Tanya Alvarez
 ---
 
-<iframe width="700" height="525" src="https://www.youtube.com/embed/xKVXlSjdKxo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<span class="small">_This is me demonstrating how to get over perfectionism -> see I didn’t even fix my hair or edit the video!_</span>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/8iLflxk6dLg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+&nbsp;
+
+<span class="small"><em>This is me demonstrating how to get over perfectionism -&gt; see I didn&rsquo;t even fix my hair or edit the video!</em></span>
 
 ### Most Solopreneurs suffer from perfectionism
 
@@ -37,20 +40,20 @@ How do you know you suffer from it?
 * No momentum
 * Analysis paralysis
 
-__Ultimately, the only detrimental decision you can make for yourself and your business is to not make a decision at all.__
+**Ultimately, the only detrimental decision you can make for yourself and your business is to not make a decision at all.**
 
 Perfectionism reverses 80/20 rule Meaning instead of 20% of your work producing 80% results. You are agonizing 80% on things that are not even going to produce 20%.
 
-One member of OwnersUP spent so much time editing his videos that it would take him about 1 month to get a video done. We challenged him to do a 4-min video each week for a month. Guess what! He got more subscribers, comments, and generated sales.
+One member of OwnersUP spent so much time editing his videos that it would take him about 1 month to get a video done. We challenged him to do a 4-min video each week for a month. Guess what\! He got more subscribers, comments, and generated sales.
 
 ### 3 things to move you out of perfectionism
 
-1. Write down your goal and why you are doing it. Write on a sticky note “Done is better than perfect” and post it on your computer!
+1. Write down your goal and why you are doing it. Write on a sticky note “Done is better than perfect” and post it on your computer\!
 2. Surround yourself with champions to inform you it’s good enough. Sometimes you just need outside perspective to remind you it’s good enough.
 3. Time yourself- give yourself a certain amount of time to get things done
 
-_Remember everything can be iterated._
+*Remember everything can be iterated.*
 
-__And don't forget...__
+**And don't forget…**
 
 > “A good plan violently executed now is better than a perfect plan executed next week.” —General George Patton
