@@ -12,7 +12,7 @@ tags:
   - Entrepreneur
   - Procrastination
 layout: post
-image:
+image: /assets/images/board-game-businessman-challenge-1040157.jpg
 post_author: Tanya Alvarez
 ---
 
