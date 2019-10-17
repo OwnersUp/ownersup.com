@@ -16,7 +16,7 @@ image:
 post_author: Tanya Alvarez
 ---
 
-[![](/assets/images/untitled-design.png){: width="1077" height="607"}](https://youtu.be/8iLflxk6dLg)
+[![](/assets/images/untitled-design.png){: width="1077" height="607"}](https://youtu.be/8iLflxk6dLg){: target="_blank"}
 
 <span class="small"><em>This is me demonstrating how to get over perfectionism -&gt; see I didn&rsquo;t even fix my hair or edit the video!</em></span>
 
