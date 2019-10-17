@@ -88,8 +88,4 @@ Also, consider writing your to-do list on either colored paper or with a like-hu
 
 So, ready to tackle the day in an organized, productive, level-headed fashion? Utilize these tips to create a to-do list you’ll actually complete.
 
-*Want to learn more about how [OwnersUP](http://ownersup.com/){: target="_blank"} can grow your small business and other entrepreneurial endeavors? Feel free to get in [contact with us](https://ownersup.com/apply){: target="_blank"}, and don’t forget to watch the video below for more insight on how to onboard clients effectively!*
-
-&nbsp;
-
-**[THIS ARTICLE PREFORMED BETTER FOR SEO WHEN IT WAS JUST SKEWED FOR TO-DO LISTS; ALSO, THESE SAME PRINCIPLES CAN BE APPLIED TO PROJECTS, AS WELL.]**
+*Want to learn more about how [OwnersUP](http://ownersup.com/){: target="_blank"} can grow your small business and other entrepreneurial endeavors? Feel free to get in [contact with us](https://ownersup.com/apply){: target="_blank"}, and don’t forget to watch the video below for more insight on how to onboard clients effectively\!*
