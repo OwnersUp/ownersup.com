@@ -10,7 +10,7 @@ tags:
   - Tips
   - Time Management
 layout: post
-image: /images/posts/ritual.jpg
+image: /assets/images/pexels-vlad-chețan-2923156.jpg
 post_author: Tanya Alvarez
 ---
 # Gift Yourself 1 Day Per Week: Hire a Virtual Assistant
