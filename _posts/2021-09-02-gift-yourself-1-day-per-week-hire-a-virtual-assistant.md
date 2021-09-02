@@ -13,8 +13,6 @@ layout: post
 image: /assets/images/pexels-vlad-chețan-2923156.jpg
 post_author: Tanya Alvarez
 ---
-# Gift Yourself 1 Day Per Week: Hire a Virtual Assistant
-
 Your battle for more time runs alongside your struggle to let go and have someone else do the work.
 
 It’s a confusing challenge, no doubt.&nbsp;
