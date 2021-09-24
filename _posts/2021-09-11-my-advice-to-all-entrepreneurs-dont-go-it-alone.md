@@ -69,4 +69,4 @@ There are plenty of online forums for entrepreneurs–but these are very general
 
 I’ll be honest. I’ve been very successful with my business ventures. Yet, as I grew my business, I wished I didn’t have to go it alone. My entrepreneurial journey would have been way more enjoyable and efficient if I had a sounding board and people to course-correct me.
 
-With hard work,&nbsp; I’ve overcome those challenges and come to really know my business. And I want to share that knowledge with you so that you can grow and flourish while avoiding the struggles I went through.[Sign up for one of our groups today](https://ownersup.com/apply).
+With hard work,&nbsp; I’ve overcome those challenges and come to really know my business. And I want to share that knowledge with you so that you can grow and flourish while avoiding the struggles I went through.&nbsp;[Sign up for one of our groups today](https://ownersup.com/apply).
