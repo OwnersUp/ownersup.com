@@ -95,7 +95,7 @@ Support groups focus more on the emotional and venting side of being an entrepre
 
 ##### A Community for You to Lean on Emotionally:
 
-If entrepreneurship was a walk in the park, everyone would earn seven figures almost immediately. Instead,[80% of businesses](http://www.forbes.com/sites/ericwagner/2013/09/12/five-reasons-8-out-of-10-businesses-fail/) fail within their first year and a half.
+If entrepreneurship was a walk in the park, everyone would earn seven figures almost immediately. Instead,&nbsp;[80% of businesses](http://www.forbes.com/sites/ericwagner/2013/09/12/five-reasons-8-out-of-10-businesses-fail/) fail within their first year and a half.
 
 By its nature, entrepreneurship can be a scary, lonely endeavor. And unfortunately, it can’t be understood by a teacher, engineer, coder, writer, or another punch-in-punch-out professional.
 
@@ -113,7 +113,7 @@ One of the most pivotal aspects of a support group is that you can’t hide from
 
 ### What Should You Avoid with Support Groups?
 
-Sometimes, networking groups and support groups are used interchangeably. They shouldn’t be. For instance,[Business Networking International](https://www.bni.com/) (BNI) claims to “support” businesses. And in some ways, it does–but only in a professional, non-vulnerable sense.
+Sometimes, networking groups and support groups are used interchangeably. They shouldn’t be. For instance,&nbsp;[Business Networking International](https://www.bni.com/) (BNI) claims to “support” businesses. And in some ways, it does–but only in a professional, non-vulnerable sense.
 
 A BNI chapter isn’t a place where you’re honest and open about your vulnerabilities and concerns. You’re supposed to be in “sell mode” because you’re trying to foster business-based connections. You can’t do that when opening up about personal struggles.&nbsp;
 
