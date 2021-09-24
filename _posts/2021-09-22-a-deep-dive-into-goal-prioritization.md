@@ -15,7 +15,7 @@ post_author: Tanya Alvarez
 ---
 ### **Section 1: Goal Prioritization and its Obstacles**
 
-##### **Why is Goal Prioritization So Difficult for Entrepreneurs? **
+##### \*\*Why is Goal Prioritization So Difficult for Entrepreneurs? \*\*
 
 Goal prioritization sounds self-explanatory—initially. On the surface, it seems all you need to do is line all your tasks up in a row, and voila\! It’s all done.
 
@@ -25,25 +25,21 @@ Moreover, unless you're willing to put in 90 hours a week, there's a need to ext
 
 #### **What is Goal Prioritization?**
 
-Successful goal prioritization is creating a system that gives you the best return on your time and makes the most significant impact on your business.
+Successful goal prioritization is creating a system that gives you the best return on your time and makes the most significant impact on your business.This isn’t an ad hoc kind of system. Instead, it’s crucial to weigh all the factors involved to ensure you get the most out of your minutes.
 
-This isn’t an ad hoc kind of system. Instead, it’s crucial to weigh all the factors involved to ensure you get the most out of your minutes.
+### **Problems People Run into with Goal**
 
-### **Problems People Run into with Goal Prioritization**
+### **Prioritization**
 
 #### *Problem \#1: Focusing on Tight Deadlines*
 
 Choosing tasks with short deadlines gives you instant wins that can shoot dopamine up to your brain and make you feel good about yourself.
 
-Unfortunately, focusing on those sprinting tasks isn’t the best course of action for your business. Instead, building your enterprise requires focusing on less pressing deadlines because they offer more substantial rewards. One[**Forbes article**](https://www.forbes.com/sites/georgedeeb/2020/06/02/dont-let-short-term-thinking-hurt-long-term-success/?sh=16c3947b4355) speaks this notion, bringing up how short-term thinking will obstruct your long-term success.
-
-In fairness, those dopamine hits are nearly irresistible when you’re looking for wins and trying to get the ball rolling. And I’m not necessarily against performing functions for your business that make you feel good. However, you’re running an entire enterprise, not only one facet of it. That means learning how to delegate, strategize, and – yes – prioritize.
+Unfortunately, focusing on those sprinting tasks isn’t the best course of action for your business. Instead, building your enterprise requires focusing on less pressing deadlines because they offer more substantial rewards. One&nbsp;[**Forbes article**](https://www.forbes.com/sites/georgedeeb/2020/06/02/dont-let-short-term-thinking-hurt-long-term-success/?sh=16c3947b4355) speaks this notion, bringing up how short-term thinking will obstruct your long-term success. In fairness, those dopamine hits are nearly irresistible when you’re looking for wins and trying to get the ball rolling. And I’m not necessarily against performing functions for your business that make you feel good. However, you’re running an entire enterprise, not only one facet of it. That means learning how to delegate, strategize, and – yes – prioritize.
 
 #### *Problem \#2: Not Thinking Big Picture Because You Feel Stretched*
 
-Entrepreneurship is all about the big picture. You aren’t performing a sprint that provides instant gratification. Your success stems from your ability to stick to a plan and focus on your long-term objectives with no concrete deadlines.
-
-It’s an issue I empathize with a lot. We all feel stretched at some point as an entrepreneur. Deciding what should be your top priority when there are *so many* critical business elements is daunting.
+Entrepreneurship is all about the big picture. You aren’t performing a sprint that provides instant gratification. Your success stems from your ability to stick to a plan and focus on your long-term objectives with no concrete deadlines. It’s an issue I empathize with a lot. We all feel stretched at some point as an entrepreneur. Deciding what should be your top priority when there are *so many* critical business elements is daunting.
 
 With the weight of the world on your shoulders, why wouldn’t you start pinging off the less pressing work to fuel (and fool) yourself with all that dopamine? After all, you already feel like you’re swimming against the current. You might as well feel good while fighting an uphill battle. Of course—this approach is highly unadvisable, but it’s a mistake we’re all susceptible to.
 
@@ -51,7 +47,7 @@ With the weight of the world on your shoulders, why wouldn’t you start pinging
 
 There is a world of difference between etching notches into a to-do list and optimizing your goal prioritization.
 
-Do you ever wonder why –[**according to Forbes**](https://www.forbes.com/sites/kevinkruse/2015/07/10/to-do-lists-time-management/?sh=324ca3304413) – entrepreneurial icons like Richard Branson don't bother with to-do lists? One of the primary reasons is due to the lack of goal prioritization involved. They don't include a system helping business owners decipher the value these tasks or projects bring to your organization. You just end up chasing checkmarks, losing sight of your overall vision, and aligning your business objectives with your values.
+Do you ever wonder why –&nbsp;[**according to Forbes**](https://www.forbes.com/sites/kevinkruse/2015/07/10/to-do-lists-time-management/?sh=324ca3304413)&nbsp;– entrepreneurial icons like Richard Branson don't bother with to-do lists? One of the primary reasons is due to the lack of goal prioritization involved. They don't include a system helping business owners decipher the value these tasks or projects bring to your organization. You just end up chasing checkmarks, losing sight of your overall vision, and aligning your business objectives with your values.
 
 I was guilty of this mistake when I started my business. Actually, I ran into all three problems listed above at the earliest stages of my entrepreneurial journey and evolution. By checking off the shortest to-do items, it fooled me into thinking I was being productive. In reality, I was avoiding the time-consuming projects and tasks that lay outside my comfort zone. And I didn’t even realize I was veering so far off-path.
 
@@ -65,9 +61,7 @@ That said, read below as I explain the system that I created to keep me from get
 
 *How many hours per week are you willing to commit to your business?*
 
-Setting goals is more than putting a number on a piece of paper and striving for that figure. It’s more about establishing an objective that aligns with your values while inspiring you to keep moving forward.
-
-I'll use myself as an example. My son is soon to be one year old—and much of my focus must be directed to him. So, I aim to work 30 hours per week. If I want a return on my invested time, it necessitates being *incredibly* picky about what I do.
+Setting goals is more than putting a number on a piece of paper and striving for that figure. It’s more about establishing an objective that aligns with your values while inspiring you to keep moving forward. I'll use myself as an example. My son is soon to be one year old—and much of my focus must be directed to him. So, I aim to work 30 hours per week. If I want a return on my invested time, it necessitates being *incredibly* picky about what I do.
 
 Everything I choose to do during a given day must align with my values and goals. Moreover, I find myself continually saying no to things that plainly don't connect with my vision and will not offer the most value for time spent.
 
@@ -87,7 +81,7 @@ I personally work from a 70-30 split. Out of everything I pull in revenue-wise, 
 
 Whether binging a Netflix show, spending time with your family, or exercising, enjoying activities you love is crucial to your productivity.
 
-One[**lifehack.org**](https://www.lifehack.org/870659/me-time) article cites how "me-time" improves your overall productivity. There's even an episode of Mad Men – a show that seems to promote being a workaholic – where it's encouraged to walk away from an assignment just to get a fresh perspective. Your[**ability to produce decreases drastically by losing yourself too much in entrepreneurial endeavors**](https://www.calendar.com/blog/how-overworking-negatively-i/).
+One&nbsp;[**lifehack.org**](https://www.lifehack.org/870659/me-time) article cites how "me-time" improves your overall productivity. There's even an episode of Mad Men – a show that seems to promote being a workaholic – where it's encouraged to walk away from an assignment just to get a fresh perspective. Your&nbsp;[**ability to produce decreases drastically by losing yourself too much in entrepreneurial endeavors**](https://www.calendar.com/blog/how-overworking-negatively-i/).
 
 Along with my 30 hours per week spent on work, I require an hour a day for exercise and a half-hour to talk to family or friends.
 
@@ -111,9 +105,9 @@ When you’re ambitious and intelligent like many entrepreneurs and business own
 
 Think about how you talk to yourself for a moment—especially when you're frustrated. I'm willing to bet you wouldn't talk to anyone else that way, not even your least favorite person. Never mind your friends.
 
-It doesn't take Sigmund Freud or Socrates to tell you that negative self-talk is[**detrimental in almost every form or function**](https://www.verywellmind.com/negative-self-talk-and-how-it-affects-us-4161304#:~:text=Focusing%2520on%2520negative%2520thoughts%2520may,tend%2520to%2520be%2520more%2520stressed.). However, what might shock you is the required "hack" that helps you out of this negative pattern.
+It doesn't take Sigmund Freud or Socrates to tell you that negative self-talk is&nbsp;[**detrimental in almost every form or function**](https://www.verywellmind.com/negative-self-talk-and-how-it-affects-us-4161304#:~:text=Focusing%2520on%2520negative%2520thoughts%2520may,tend%2520to%2520be%2520more%2520stressed.). However, what might shock you is the required "hack" that helps you out of this negative pattern.
 
-Namely, talking to yourself in the third person is[**reported by experts**](https://aeon.co/ideas/why-speaking-to-yourself-in-the-third-person-makes-you-wiser) and philosophers to positively impact your thought process.
+Namely, talking to yourself in the third person is&nbsp;[**reported by experts**](https://aeon.co/ideas/why-speaking-to-yourself-in-the-third-person-makes-you-wiser) and philosophers to positively impact your thought process.
 
 Upon examining the reasoning, the logic is straightforward to grasp. Think about it—referring to yourself in the first person is emotionally charged by nature. I'm not saying you're self-involved, but we're involved with ourselves by nature as humans, creating a sense of negative bias.
 
@@ -135,7 +129,7 @@ With a list of goals that need prioritizing, you need that objective bit of dist
 
 I have all my clients create action plan sheets—here’s an explanation of how they work:
 
-*Goal: *
+\*Goal: \*
 
 * The overall objective:
   * E.g., “I want to create content every month.”
@@ -179,7 +173,7 @@ Write what the outcome is for your business and not the mundane nuts and bolts o
 
 From there, you’ll be inspired to click on the item in your calendar, where you’ll have a more detailed plan written. The OwnersUp platform has a feature that significantly streamlines this process. Furthermore, ensure that you put three reminders to receive emails so that the goal never slips your mind.
 
-Here's a useful tidbit: studies exist showing how people with ADD excel at completing tasks and projects with a transparent deadline and when there's[**something that excites and inspires them**](https://www.additudemag.com/when-adhd-leads-to-lack-of-motivation-how-to-get-work-done/).
+Here's a useful tidbit: studies exist showing how people with ADD excel at completing tasks and projects with a transparent deadline and when there's&nbsp;[**something that excites and inspires them**](https://www.additudemag.com/when-adhd-leads-to-lack-of-motivation-how-to-get-work-done/).
 
 #### *Verbalize Your Goals to Whoever Will Listen:*
 
