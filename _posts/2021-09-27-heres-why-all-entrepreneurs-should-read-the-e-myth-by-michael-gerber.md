@@ -17,13 +17,13 @@ Before digging into *The* *E-Myth* - a go-to playbook for almost all entrepreneu
 
 As a professional coach who facilitates entrepreneurial advisory groups, one of my core focuses is course-correcting, a notion that gets overlooked.
 
-In place of course-correcting, we romanticize putting in long, hard hours. It’s part of the “boss” culture, so to speak. Each of us is supposed to live, eat, sleep, and breathe work, with no time for anything else. Beyond that, we demonize not working hard enough--as though taking some time for yourself is a mortal sin.
+In place of course-correcting, we romanticize putting in long, hard hours. It’s part of the “boss” culture, so to speak. Each of us is supposed to live, eat, sleep, and breathe work, with no time for anything else. Beyond that, we demonize not working hard enough–as though taking some time for yourself is a mortal sin.
 
 Point blank, the above perspectives won’t bring you toward a happy and healthy life. Nor will they help you thrive as an entrepreneur.
 
 What *should* be demonized is doing too much of the wrong type of work, namely, spending time on low-value tasks. And we should romanticize maximizing our minutes, focusing on high-value work that helps our business grow even if we aren’t around.&nbsp;
 
-Without the benefit of course-correcting, you’ll never reach that peak--the place where you’re pulling in 7 figures while only working 30 hours per week.
+Without the benefit of course-correcting, you’ll never reach that peak–the place where you’re pulling in 7 figures while only working 30 hours per week.
 
 A book like T*he E-Myth* is integral to your growth as an entrepreneur because of its course-correcting qualities. By reading this book, it won’t take 5 years of chasing your tail around low-value tasks before making the necessary changes.&nbsp;
 
@@ -47,7 +47,7 @@ Earlier, I mentioned the importance of avoiding low-value tasks that chew up you
 
 No. A low-value task is the type of work that won’t necessarily grow your business.&nbsp;
 
-Michael Gerber in *The E-myth* places little value in the technical work--which might seem counterintuitive.&nbsp;
+Michael Gerber in *The E-myth* places little value in the technical work–which might seem counterintuitive.&nbsp;
 
 But you need to think of the actual responsibilities of an owner. Before, when you had a “job,” your technical work stood for something. Because that’s what an owner paid you to do. Whereas an owner isn’t paying themselves to perform a particular job.
 
